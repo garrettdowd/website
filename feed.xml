@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Garrett Dowd dev3</title>
+    <title>Garrett Dowd</title>
     <link href="https://garrettdowd.github.io/website/feed.xml" rel="self" />
     <link href="https://garrettdowd.github.io/website" />
     <updated>1969-12-31T19:00:00-05:00</updated>
@@ -9,4 +9,300 @@
     </author>
     <id>https://garrettdowd.github.io/website</id>
 
+    <entry>
+        <title>HyperloopTT</title>
+        <author>
+            <name>Garrett Dowd</name>
+        </author>
+        <link href="https://garrettdowd.github.io/website/hyperlooptt/"/>
+        <id>https://garrettdowd.github.io/website/hyperlooptt/</id>
+            <category term="Transportation"/>
+            <category term="Product Management"/>
+
+        <updated>2020-07-13T16:47:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://garrettdowd.github.io/website/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
+                    If you haven't had a chance to read the article on Glyde, now is your chance. My journey with HyperloopTT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garrettdowd.github.io/website/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
+                <p>If you haven't had a chance to read the article on <a href="https://garrettdowd.github.io/website/glyde/">Glyde</a>, now is your chance. My journey with <a href="https://www.hyperlooptt.com/" target="_blank" rel="noopener noreferrer">HyperloopTT</a> began while pitching Flexrail at <a href="https://ff.co/" target="_blank" rel="noopener noreferrer">Founders Forum</a>.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/6/Annotation-2020-07-13-151941.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-md.png 768w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-lg.png 1200w"  alt="" width="615" height="317"></figure>
+<p>Where I met Bibop Gresta, founder and former chairman of HyperloopTT. He charismatically criticized my work with Flexrail and somehow my work with HyperloopTT developed quickly in the following months. </p>
+<p>I started on a crypto-currency project using Glyde as a blueprint to build a utility strategy for a new crypto-currency. I <strong>delivered a whitepaper</strong> to executive leadership and worked with them directly on strategy until the project was cancelled. After the crypto-currency project I continued to collaborate with exec leadership across a range of topics.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4136.JPG" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4136-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>London</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>Dubai</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763.jpg" data-size="1024x768"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>Belo Horizonte, Brazil</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4031.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4031-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>Cleveland, Ohio</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4035.JPG" data-size="960x720"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4035-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Cleveland, Ohio</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>Los Angeles</figcaption>
+</figure>
+</div></div>
+<p>Overall, I worked with HyperloopTT across 4 continents developing strategy and working with stakeholders. The pictures above are from a few of those experiences.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/6/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-xs.jpg 384w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-sm.jpg 600w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-md.jpg 768w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-lg.jpg 1200w"  alt="" width="903" height="677"></figure>
+<p class="msg--highlight  msg--info msg">However, it is important to point out that HyperloopTT is not an average startup. <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=52627" target="_blank" rel="noopener noreferrer">Harvard Business School developed a case study</a> around HyperloopTT's business model. To summarize, Hyperloop has only a handful of full-time employees and instead utilizes a large group (800+) of contributors and partner companies to achieve business goals. These contributors and partners receive future equity in exchange for their work. I was one of these contributors and my involvement was part-time. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Glyde</title>
+        <author>
+            <name>Garrett Dowd</name>
+        </author>
+        <link href="https://garrettdowd.github.io/website/glyde/"/>
+        <id>https://garrettdowd.github.io/website/glyde/</id>
+            <category term="Product Management"/>
+
+        <updated>2020-07-13T16:47:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://garrettdowd.github.io/website/media/posts/5/glyde.png" alt="" />
+                    Glyde is a new type of dynamic pricing for transportation. So new that we created a new name for it,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garrettdowd.github.io/website/media/posts/5/glyde.png" alt="" />
+                <p class="msg msg--success">Glyde is a new type of dynamic pricing for transportation. So new that we created a new name for it, flex pricing. I was the lead product manager and founder of Glyde and this is a quick story about it.</p>
+<h2> </h2>
+<h2><span style="text-decoration: underline;"><strong>Dynamic pricing.</strong></span><strong> 😬</strong></h2>
+<p>If you are already familiar with dynamic pricing then you can skip the next section. If not, don't worry. I removed any differential equations and confusing economic notation.</p>
+<p>What thoughts does "dynamic pricing" bring to mind? Uber surge pricing? Airline tickets? Dynamic pricing has a fairly negative connotation. However, in the age of big data and free capitalism, it is lauded as a technique the promises max yield and utilization of assets. The largest ticketing company for travel is Amadeus, a company worth 40 billion USD in 2018. Originally founded by major European airlines, it now owns the majority of the airline ticketing business and is a prominent purveyor of dynamic pricing.</p>
+<p>There are countless guides on the internet describing how to fight back against dynamic pricing systems. While Amadeus does not publish what data their algorithms use, it is probable they use a combination of personal and system information. <a href="https://amadeus.com/en/portfolio/airlines/dynamic-pricing" target="_blank" rel="noopener noreferrer">Their dynamic pricing website </a>states, <em>"Analyze flight offers that customers have previously seen and bought, in order to model future shopping behavior and calculate passengers’ willingness to pay - in real-time. Offer the right price for a shopping session and hit the optimal 'sweet spot' between raising the price to make more money per seat and lowering the price to increase the probability of the customer picking your offer." </em>In industry speak, this is called optimizing <strong>loading</strong> and <strong>yield</strong>. <span style="text-decoration: underline;">Loading</span> is a measure of asset utilization (a.k.a. Are there empty seats?) and <span style="text-decoration: underline;">yield</span> is a measure of revenue or profitability per customer. Balancing loading and yield to maximize total revenue is the name of the game and roughly <strong>"loading * yield = total revenue</strong>". I'm sorry if you weren't expecting a deep dive on dynamic pricing, but we need to go one step deeper.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.economicshelp.org/wp-content/uploads/2019/06/dynamic-pricing.jpg" data-is-external-image="true"  alt="" width="519" height="260"></figure>
+<p>The reality is that loading and yield are somewhat inversely related. Higher ticket prices means that fewer people are willing to purchase a ticket at that price and vice versa. This is commonly referred to as <strong>price sensitivity</strong>. A good example of price insensitive customers are business travelers, who have travel requirements regardless of price. The challenge of dynamic pricing is to charge price insensitive customers a premium price (increase yield) while still attracting price sensitive customers with a discount price (increase loading). Traditional dynamic pricing tries to predict a customer's price sensitivity and overall market demand to set a unique ticket price for each [potential] customer. That's it. It's a simple economic idea that is quite complex at scale.</p>
+<p>The reality is that these algorithms often use personal data that is either collected from web interactions or purchased from third parties to make price sensitivity predictions. Furthermore, I think there are valid ethical concerns of applying dynamic pricing techniques to essential services such as transportation. For example, do you think traditional dynamic pricing should be used in healthcare? So what is the alternative?...</p>
+<p class="msg msg--highlight ">How do you set prices and ensure public assets or essential services, like a rail network, are being efficiently used by the public? </p>
+<p> </p>
+<h2>Glyde.</h2>
+<p>As we learned in the last section, dynamic pricing is a technique to increase total revenue by optimizing <em>loading</em> and <em>yield</em>. At the heart of dynamic pricing is <span style="text-decoration: underline;"><em>price sensitivity</em></span><strong>, </strong>which is what dynamic pricing algorithms try to predict.</p>
+<p class="msg msg--highlight ">But what if there was a mechanism that <em>removed the need to predict price sensitivity</em>? <em><strong>What if a customer would willingly divulge their price sensitivity</strong></em>... to their ultimate benefit? This is the question at the core of Glyde.</p>
+<h3> </h3>
+<h3>In The Beginning 🚆</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-10-213739.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-lg.png 1200w"  alt="" width="449" height="122"></figure>
+<p>Glyde was born as <span style="text-decoration: underline;"><strong>Flexrail</strong></span> from Hacktrain 3.0, the premier rail industry hackathon in Europe and possibly the best overall hackathon... ever. Hacktrain 3.0 was a 48-hour marathon that took place on moving trains across Europe with stops across 9 different venues. <a href="https://www.silverrailtech.com/hacktrain-an-inside-persepective/" target="_blank" rel="noopener noreferrer">Here is a written account of the event</a> from they folks at SilverRail. Or better yet, watch the official video below.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/f8AxokvfcX0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>If the video didn't already spoil it, Flexrail placed first in the competition. I was the team lead and pitched the product at the finals.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/IMG_7562.JPG" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-xs.JPG 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-sm.JPG 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-md.JPG 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-lg.JPG 1200w"  alt="" width="518" height="291"></figure>
+<p>Hacktrain was not the only success. I won additional entrepreneurial awards and competitions including UCL Bright Ideas and FFactor. FFactor allowed me to pitch Flexrail at the lauded Founder's Forum in front of founders, CEOs and even Prince Harry and David Cameron. Founder's Forum is also where I met Bibop Gresta, Founder and Chairman of HyperloopTT, but that is saved for another post.</p>
+<h3> </h3>
+<h3>The Flex Ticket 🍰</h3>
+<p class="msg msg--success">So why did Flexrail win so many awards?</p>
+<p>Let's start with the Flex Ticket. The Flex Ticket enables customers to trade travel flexibility for discounted tickets. Ultimately, this allows rail operators to offer discounted tickets targeted at price sensitive customers with little risk of losing yield on price insensitive customers.</p>
+<p>Let's compare the Flex Ticket experience to a traditional ticketing experience provided by Trainline, a leading rail ticketing platform in the UK.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/5/Trainline-Pricing.gif" alt="Traditional Booking Experience" width="241" height="429">
+<figcaption >Traditional Booking Experience</figcaption>
+</figure>
+<p>The traditional ticketing experience shows a large number of ticket options to travel between London and Manchester. Users must scroll through all the listing to find the cheapest ticket that matches their travel requirements. The same tickets are also shown to every customer so traditional pricing techniques are employed to charge higher prices for services that are predicted to be more heavily used or of higher value.</p>
+<p class="msg msg--warning"><em>Note: There are many nuances to the way ticket prices are set, which is the result of a complex relationship between the government that owns to the infrastructure and the rail franchises that operate services on the network. More on this later</em></p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/5/Flexrail-Pricing.gif" alt="Flexrail Booking Experience" width="243" height="431">
+<figcaption >Flexrail Booking Experience</figcaption>
+</figure>
+<p>Unlike traditional ticketing, the Flex Ticket experience is a two step process.</p>
+<ol>
+<li>The user picks a Travel Window (time window during which they are willing to travel) in advance of their travel date/time and are given an immediate price. This makes the flexibility/price trade-off completely transparent. They are issued a Flex Ticket which is a promise for a ticket during their selected Travel Window.</li>
+<li>Closer to the travel date/time, the user is issued a ticket for a specific train/time within their Time Window. Exactly when the user is issued a specific train/time depends on the rail operators pricing strategy.</li>
+</ol>
+<p>So the main concept of a Flex Ticket is that customers are trading the certainty of their travel time for a price discount. This notion fits fairly well with existing economic theory. The more interesting insight is that the most price sensitive customer select the largest Travel Window. </p>
+<p class="msg msg--success">Price sensitivity = Flexibility = Time = $<span class="LrzXr kno-fv">£</span>‎€</p>
+<p>Better yet, there is a near perfect linear correlation between price sensitivity and travel flexibility confirmed by over 150 user interviews. This is the roux of the secret sauce that powered Flexrail's algorithms.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-13-133336.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-lg.png 1200w"  alt="" width="456" height="390"></figure>
+<p>But Wait. There's More.</p>
+<p> </p>
+<h4>Dynamic Load Factor Smoothing (DLFS)</h4>
+<p>The Flex Ticket mechanism allowed Flexrail to optimize the loading of high frequency services. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-13-143126.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-lg.png 1200w"  alt=""></figure>
+<p>Using historical and real-time ticketing data I built a prediction model to estimate future loading over an arbitrary time-span. This allowed Flexrail's algorithms to assign Flex Ticket holders to trains predicted to be less full. It is important to note that the predictions have accuracy limitations and only Flex Tickets can be optimally assigned. This means that DLFS will not solve problems like <em>peak loading</em> for certain commuter routes. However, there are industries other than transportation where DLFS is much more useful such as theme parks.</p>
+<p> </p>
+<h3>Why Flexrail Ultimately Failed</h3>
+<p>Rail markets are complex and slow moving monoliths. Unlike rail markets in countries where the entire rail system is nationalized, the UK rail market is partially privatized. The government, Network Rail, owns the infrastructure but does not operate any services. Private companies compete for "franchises" to operate a defined service or route. The franchises are defined with extreme detail and give private companies little flexibility to deviate from the franchise contract.</p>
+<p>In fact, the amount of money that a private company makes from a rail franchise is stipulated in the contract. Any extra profit the franchise makes must be given back to the government. Ticket types and prices are also regulated by the government to varying degrees. </p>
+<p>These factors combined with the personal challenges of living abroad in London led to the eventual spin-down of the Flexrail business efforts.</p>
+<p>However, this was the beginning of Glyde, a pivot away from the rail industry. A pivot that allowed me to work around the world with some amazing people. Read more about this in my article on <a href="https://garrettdowd.github.io/website/hyperlooptt/">HyperloopTT.</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>iMods</title>
+        <author>
+            <name>Garrett Dowd</name>
+        </author>
+        <link href="https://garrettdowd.github.io/website/imods/"/>
+        <id>https://garrettdowd.github.io/website/imods/</id>
+            <category term="Product Management"/>
+
+        <updated>2020-07-13T16:47:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://garrettdowd.github.io/website/media/posts/4/iMods-Logo-Blue.png" alt="" />
+                    A great smartphone makes tasks simpler and easier. Apple is famous for creating simple devices that make our lives easier,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garrettdowd.github.io/website/media/posts/4/iMods-Logo-Blue.png" alt="" />
+                <blockquote>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">A great smartphone makes tasks simpler and easier. Apple is famous for creating simple devices that make our lives easier, but with 300+ million users is a one-size-fits-all approach really that simple anymore? - iMods Pitch 2014</span></p>
+</blockquote>
+<h2>Intro</h2>
+<p>Apple has historically locked down the iOS operating system and the App Store to prevent users and developers from modifying/adding core features and UI/UX. This is especially true when compared to a mobile OS like Android. However, this did not stop tech nerds/geniuses/gods from "hacking" iOS, using techniques like code injection, to overcome Apple imposed limitations.</p>
+<p>In fact, many features that we could not live without in current versions of iOS like cellular hotspot, mission control, notification center, in-app messaging, and more <strong>were all originally created and </strong><span style="font-size: 18.4px;"><strong>released</strong></span><strong> by these tech/design geniuses </strong>within the so-called <a href="https://en.wikipedia.org/wiki/IOS_jailbreaking" target="_blank" rel="noopener noreferrer">jailbreak </a>community. In another manner of saying, Apple mimicked (ripped-off) many of the features and UI/UX enhancements developed by the jailbreak community.</p>
+<p>Even Apple founder and tech god Steve Wozniak was a fan,</p>
+<blockquote>
+<p>I have always given my support to the jailbreak community because they remind me of myself when I met Steve Jobs and how we were, then and for the years leading to Apple. <em>-Steve Wozniak</em></p>
+</blockquote>
+<p>iMods was born from this "jailbreak" community back in 2014. It was an ambitious attempt to modularize and appify iOS using jailbreak software as the building blocks. iMods was an attempt to solve two major problems with Cydia, the existing jailbreak marketplace at the time.</p>
+<ul>
+<li>Piracy. Cydia enabled rampant piracy, hindering talented developers efforts. </li>
+<li>Usability. Understanding how to jailbreak an iOS device and what software was safe to install was a high barrier to entry. </li>
+</ul>
+<p>We created an App Store like marketplace that enabled an average iOS user to <strong>easily</strong> install <strong>vetted</strong> enhancements on their iOS devices.</p>
+<p>Again, in the words of Steve Wozniak,</p>
+<blockquote>
+<p> I think it's a great thing...to make the software work exactly the way they need it to. That kind of hacking is the center of my heart, that's who I am. - Steve Wozniak</p>
+</blockquote>
+<p class="msg msg--success"><strong>This was iMods.</strong></p>
+<h2>iMods</h2>
+<p>I joined iMods as a co-founder and product manager in 2014. The majority of the team worked remotely and were located around the world from Greece to California. We also had an angel-investor that provided a group of local developers.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/4/Picture1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-md.png 768w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-lg.png 1200w"  alt="" width="182" height="371"></figure>
+<p>So instead of telling you about iMods let me just show you. The following image gallery details the original user interface mockups.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="6">
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/Login.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/Login-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410598.97_1344666.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410598.97_1344666-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410694.93_1345494.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410694.93_1345494-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410698.44_1345495.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410698.44_1345495-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.4_1344665.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.4_1344665-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.54_1344669.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.54_1344669-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.42_1344667.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.42_1344667-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.52_1344668.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.52_1344668-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412253.77_1345496.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412253.77_1345496-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412293.43_1345532.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412293.43_1345532-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.38_1346097.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.38_1346097-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390631.56_1342513.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390631.56_1342513-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.42_1346099.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.42_1346099-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.45_1346098.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.45_1346098-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418321.66_1346096.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418321.66_1346096-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418324.9_1344847.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418324.9_1344847-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+</div></div>
+<p>And here are a few screenshots from an early version of the app running in the XCode simulator.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3418.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3418-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3419.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3419-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3421.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3421-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3422.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3422-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3423.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3423-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3424.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3424-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3426.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3426-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3429.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3429-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+</div></div>
+<p>We did a few things really well. User interface and community engagement were at the top of our accomplishments with buy-in from top developers and viral popularity from users. Here is a teaser video showcasing some of the software available on iMods.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6BWY0-zIVY8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>There were also many technical accomplishments from a custom package manager to a scalable backend system (payment, account, support, marketing).</p>
+<p>iMods was released under GPL3 on Github a couple years after the startup ceased to function. It can be <a href="https://github.com/iMods1/iMods" target="_blank" rel="noopener noreferrer">found here</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I bought a supercomputer.</title>
+        <author>
+            <name>Garrett Dowd</name>
+        </author>
+        <link href="https://garrettdowd.github.io/website/supercomputer/"/>
+        <id>https://garrettdowd.github.io/website/supercomputer/</id>
+            <category term="Engineering"/>
+            <category term="Computing"/>
+
+        <updated>2020-07-13T16:47:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://garrettdowd.github.io/website/media/posts/1/servers.jpg" alt="" />
+                    IntroI bought a supercomputer. Well... to be more accurate I bought about 10% of the Oakley supercomputer which was managed by the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://garrettdowd.github.io/website/media/posts/1/servers.jpg" alt="" />
+                <h2>Intro</h2>
+<p>I bought a supercomputer.</p>
+<p>Well... to be more accurate I bought about 10% of the <a href="https://www.osc.edu/resources/technical_support/supercomputers/oakley">Oakley supercomputer</a> which was managed by the Ohio Supercomputer Center (OSC). The supercomputer cluster consisted of ~750 computers (nodes) that could be run in parallel for massive simulations and other technical computing. It featured a peak performance of 154.1 <a href="https://www.reddit.com/r/compsci/comments/bivyih/flops_vs_ips_regarding_supercomputerswhats_the/">teraflops</a> (CPU&amp;GPU) and used an ungodly amount of energy. Oakley was decommissioned in 2019 and is in the process of being liquidated. </p>
+<figure class="post__image align-center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/osc_oakley_hp_intel_xeon_clusterlrg.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-lg.jpg 1200w"  alt="Oakely Supercomputer Cluster" width="580" height="387"></figure>
+<p>However, decommissioned does not mean worthless. A single node from the Oakley cluster has dual six-core Xeon CPUs with 48GB of RAM. Performance is on par with some of 2019's best laptops (including Macbook Pro's) depending on the type of compute workload. If you want to see the full specs skip to the <a href="#mcetoc_1e3j0jl6i0">next section</a>. </p>
+<p class="msg msg--highlight ">Now you might be thinking, "<em>Uhhhh why would you buy..?</em>". <a href="https://www.youtube.com/watch?v=Qmzk2qhXBf0">Because Anton.</a> More on that later.</p>
+<h2>Hardware</h2>
+<p>Even in 2020, these hardware specs are impressive for personal use. For the most part, supercomputers are all about compute density, fitting a lot of processing power into a small space, and that can be expensive. Each Xeon x5650 CPU in these servers had an original retail price of <a href="https://ark.intel.com/content/www/us/en/ark/products/47922/intel-xeon-processor-x5650-12m-cache-2-66-ghz-6-40-gt-s-intel-qpi.html">$999 USD</a>. There are <strong>sixty-two</strong> x5650 CPUs in the servers that I purchased equating to an original face value of ~$60,000 USD...😵 </p>
+<p>The server racks in the picture below are comparable to a Ferrari 458 Speciale, or A5 Waygu covered in black truffle if food is more your thing. They are top-of-the-line and built for performance, with a face value to match.</p>
+<figure class="post__image align-center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/IMG_6815.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-lg.jpg 1200w"  alt="The two server racks I purchased from OSC liquidation" width="385" height="514"></figure>
+<p>The server rack on the right contains 2U (height) HP Proliant SL390s servers. These 2U servers contain the (dual) NVIDIA GPUs. The rack on the right contains 1U SL390s servers which are CPU only.</p>
+<p><strong><span style="text-decoration: underline;">HP Proliant SL390s Spec/Config</span></strong></p>
+<p class="msg msg--info">Dual Xenon x5650 6-cores @ 2.67 GHz<br>Dual NVIDIA Tesla M2070 GPUs<br><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">48 (8GBx6) ECC DDR3 Memory<br></span>Dual RJ45 NIC (1 Gb/s), 1 SFP+ port (10 Gb/s), 1 QSFP port (40 Gb/s)<br>Dedicated iLO3</p>
+<p>The SL390s is part of HP's "scalable" line of enterprise servers and is a tray configuration. Each of these servers fit into a (HP S6500) chassis which provides power and cooling to all of the server trays. This improves density, efficiency, ease of maintenance, etc. If a server fails or needs to be fixed then it is simply slid out of the chassis while all of the other servers remain running.</p>
+<p>Some of the server trays in the racks above were empty (no CPUs or RAM). Accounting for those empty servers I am left with a <strong>total of</strong>;</p>
+<p class="msg msg--info">372 CPU Cores<br>1.44TB RAM<br>30 NVIDIA Tesla GPUs</p>
+<p>Not bad. Not bad at all.</p>
+<h3>Power and Networking</h3>
+<p>Looking at the servers is one thing, but running them all at once in a cluster is a completely different thing. Each rack includes two large power distribution units which converts 240V three phase AC into the 120V single phase AC that the servers need. The connectors are monstrous and the cables are rated to 80 amps. Additionally, each rack comes with two 48 port switches (where all the computers plug into for network access). At the OSC, a single fiber optic cable (QDR, 40 Gb/s) was run from from the gigabit switch in the rack to the main switching network in the center which connected this rack to all the other racks. Modularity at its finest.</p>
+<p>However, this is also the reason why I am selling a good portion of what I bought. It is unrealistic to run this in a home setting. Most homes are for a 100-200 amp service (at 240V) from the power company, which is 24-48 kilowatts. Running a single rack at full blast could consume 10-15 kilowatts (extremely rough estimate), and that is not even considering you would need to install special wiring from your mains box to the servers. So yeah, <a href="https://www.youtube.com/watch?v=eZTaNLfxTRU">Anton</a> is best saved for when someone else is paying for the electricity.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption class="gallery__item-description">Power Conversion/Distribution</figcaption>
+</figure>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875.jpg" data-size="977x1303"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875-thumbnail.jpg" alt="" width="768" height="1024"></a>
+<figcaption class="gallery__item-description">Mains Connector</figcaption>
+</figure>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption class="gallery__item-description">Bundles of Ethernet cables (meticulously labelled and unceremoniously removed)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851.jpg" data-size="708x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851-thumbnail.jpg" alt="" width="708" height="944"></a>
+<figcaption class="gallery__item-description">Power strips from the mains converter.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855.jpg" data-size="1259x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption class="gallery__item-description">Power supplies on the S6500 chassis</figcaption>
+</figure>
+</div></div>
+<h2 class="msg--highlight">Why</h2>
+<p class="msg--highlight msg "><em>"OK. BUT REALLY. Why would you.. What sane person would..."</em> <a href="https://youtu.be/BRZ4NKaqGro?t=92">Please stop saying that.</a></p>
+<p>So yes there are downsides to owning part of a supercomputer. Needing a commercial truck with a lift-gate to move it is quite inconvenient. Blowing the main fuse on your house is also not a lot of fun. I didn't even study computer science or computer engineering, so how am I supposed to know how it all works? Luckily, this is not my first server.</p>
+<p>Back in 2013, I had a bunch of external hard drives with photos and video from my photography hobby. These HDDs also held a bunch of music, movies, data from experiments, and more. I even had backups of all of this content because my encounters with data loss were very painful. So to consolidate all of this storage into a single filesystem and make backups easier I moved everything into an <a href="https://unraid.net/">unRAID</a> server. unRAID is a linux distribution, based on Slackware, that was built for network attached storage (NAS) purposes. If you can build a computer then you can probably get a headless unRAID installation up and running for your home. Anyway, back then the community was small and you didn't even have the ability to run apps on the computer, it was storage only.</p>
+<p>Fast forward to 2020 and virtualization has blown up in popularity. With technologies like Docker or LXC it is easy to turn any server into a personal cloud service (equivalent ~ Netflix/Dropbox/Facebook/Google Photos/Nest/etc) with free and open-source software (FOSS). </p>
+<p class="msg msg--success">Running a personal server at home means that you own and control your data. Privacy is preserved and companies aren't selling your personal data to the highest bidder.</p>
+<h3>Cut the the chase</h3>
+<h2><figure class="post__image post__image--center"><img loading="lazy"  src="https://media.giphy.com/media/ln1j2Bz4PyE8KMyW2g/giphy.gif" data-is-external-image="true"  alt="" width="260" height="260"></figure></h2>
+<p>Well, there are two reasons that these new servers are useful.</p>
+<ol>
+<li>High availability</li>
+<li>High performance</li>
+</ol>
+<p><strong>High availability</strong> - All computer hardware needs maintenance. Hard drives die. Components need to be upgraded. Things need to be moved for cleaning or constructions. If you are running mission-critical applications on your server like Home Assistant home-automation software, software-defined networking, or even a virtualized Windows desktop then it can be very disruptive if your server goes down for any significant amount of time. Using virtualization technologies like LXC or KVM in combination with a management system like Proxmox makes it easy to move applications from one physical computer to another with almost zero downtime. As I start to automate more functions in my living space and rely more heavily on the convenience of running my own server, it pays to have redundancy.</p>
+<p><strong>High performance</strong> - I enjoy using a small, lightweight laptop. Unfortunately, a good portion of my work involves heavy computation (video processing, machine learning, code compiling, simulation). Using this server cluster I can spin up multiple machines for a `torch.distributed` (PyTorch) job, a Matlab Parallel Server, or even a custom <a href="https://en.wikipedia.org/wiki/Beowulf_cluster" target="_blank" rel="noopener noreferrer">Beowulf cluster</a>.</p>
+<h2>Actually Using the Servers</h2>
+<p>If you made it this far in the post then you probably want more details. I will split up some of this practical "how-to" information over a few posts to decrease the skimming burden on your eyes and brain.</p>
+<p><em>(links will be available here as posts are published)</em></p>
+<p><strong>PXE Boot and iLO</strong></p>
+<p><strong>Proxmox</strong></p>
+<p><strong>GPU Pass-through</strong></p>
+<p><strong>Docker and Portainer</strong></p>
+<p><strong>Network Storage (NFS/CIFS/iSCSI)</strong></p>
+<p><strong>Backups</strong></p>
+<p><strong>Reverse Proxies</strong></p>
+<p><strong>Domains and DNS</strong></p>
+<p><strong>My cloud services</strong></p>
+<p><strong>Kubernetes and Rancher</strong></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
