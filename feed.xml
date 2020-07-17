@@ -19,7 +19,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T03:37:00-04:00</updated>
+        <updated>2020-07-17T04:58:20-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -68,7 +68,7 @@
         <id>https://blog.garrettdowd.com/glyde/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T03:37:00-04:00</updated>
+        <updated>2020-07-17T04:58:20-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -146,7 +146,7 @@
         <id>https://blog.garrettdowd.com/imods/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T03:37:00-04:00</updated>
+        <updated>2020-07-17T04:58:20-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
@@ -227,7 +227,7 @@
             <category term="Projects"/>
             <category term="Computing"/>
 
-        <updated>2020-07-17T03:37:00-04:00</updated>
+        <updated>2020-07-17T04:58:20-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
@@ -240,13 +240,13 @@
                 <h2>Intro</h2>
 <p>I bought a supercomputer.</p>
 <p>Well... to be more accurate I bought about 10% of the <a href="https://www.osc.edu/resources/technical_support/supercomputers/oakley">Oakley supercomputer</a> which was managed by the Ohio Supercomputer Center (OSC). The supercomputer cluster consisted of ~750 computers (nodes) that could be run in parallel for massive simulations and other technical computing. It featured a peak performance of 154.1 <a href="https://www.reddit.com/r/compsci/comments/bivyih/flops_vs_ips_regarding_supercomputerswhats_the/">teraflops</a> (CPU&amp;GPU) and used an ungodly amount of energy. Oakley was decommissioned in 2019 and is in the process of being liquidated. </p>
-<figure class="post__image align-center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/osc_oakley_hp_intel_xeon_clusterlrg.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-lg.jpg 1200w"  alt="Oakely Supercomputer Cluster" width="580" height="387"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/osc_oakley_hp_intel_xeon_clusterlrg.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/osc_oakley_hp_intel_xeon_clusterlrg-lg.jpg 1200w"  alt="Oakely Supercomputer Cluster" width="580" height="387"></figure>
 <p>However, decommissioned does not mean worthless. A single node from the Oakley cluster has dual six-core Xeon CPUs with 48GB of RAM. Performance is on par with some of 2019's best laptops (including Macbook Pro's) depending on the type of compute workload. If you want to see the full specs skip to the <a href="#mcetoc_1e3j0jl6i0">next section</a>. </p>
 <p class="msg msg--highlight ">Now you might be thinking, "<em>Uhhhh why would you buy..?</em>". <a href="https://www.youtube.com/watch?v=Qmzk2qhXBf0">Because Anton.</a> More on that later.</p>
 <h2>Hardware</h2>
 <p>Even in 2020, these hardware specs are impressive for personal use. For the most part, supercomputers are all about compute density, fitting a lot of processing power into a small space, and that can be expensive. Each Xeon x5650 CPU in these servers had an original retail price of <a href="https://ark.intel.com/content/www/us/en/ark/products/47922/intel-xeon-processor-x5650-12m-cache-2-66-ghz-6-40-gt-s-intel-qpi.html">$999 USD</a>. There are <strong>sixty-two</strong> x5650 CPUs in the servers that I purchased equating to an original face value of ~$60,000 USD...😵 </p>
 <p>The server racks in the picture below are comparable to a Ferrari 458 Speciale, or A5 Waygu covered in black truffle if food is more your thing. They are top-of-the-line and built for performance, with a face value to match.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/IMG_6815.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-lg.jpg 1200w"  alt="The two server racks I purchased from OSC liquidation" width="385" height="514"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/IMG_6815.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-xs.jpg 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-sm.jpg 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-md.jpg 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/responsive/IMG_6815-lg.jpg 1200w"  alt="The two server racks I purchased from OSC liquidation" width="385" height="514"></figure>
 <p>The server rack on the right contains 2U (height) HP Proliant SL390s servers. These 2U servers contain the (dual) NVIDIA GPUs. The rack on the right contains 1U SL390s servers which are CPU only.</p>
 <p><strong><span style="text-decoration: underline;">HP Proliant SL390s Spec/Config</span></strong></p>
 <p class="msg msg--info">Dual Xenon x5650 6-cores @ 2.67 GHz<br>Dual NVIDIA Tesla M2070 GPUs<br><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">48 (8GBx6) ECC DDR3 Memory<br></span>Dual RJ45 NIC (1 Gb/s), 1 SFP+ port (10 Gb/s), 1 QSFP port (40 Gb/s)<br>Dedicated iLO3</p>
@@ -257,21 +257,21 @@
 <h3>Power and Networking</h3>
 <p>Looking at the servers is one thing, but running them all at once in a cluster is a completely different thing. Each rack includes two large power distribution units which converts 240V three phase AC into the 120V single phase AC that the servers need. The connectors are monstrous and the cables are rated to 80 amps. Additionally, each rack comes with two 48 port switches (where all the computers plug into for network access). At the OSC, a single fiber optic cable (QDR, 40 Gb/s) was run from from the gigabit switch in the rack to the main switching network in the center which connected this rack to all the other racks. Modularity at its finest.</p>
 <p>However, this is also the reason why I am selling a good portion of what I bought. It is unrealistic to run this in a home setting. Most homes are for a 100-200 amp service (at 240V) from the power company, which is 24-48 kilowatts. Running a single rack at full blast could consume 10-15 kilowatts (extremely rough estimate), and that is not even considering you would need to install special wiring from your mains box to the servers. So yeah, <a href="https://www.youtube.com/watch?v=eZTaNLfxTRU">Anton</a> is best saved for when someone else is paying for the electricity.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874-thumbnail.jpg" alt="" width="768" height="576"></a>
-<figcaption class="gallery__item-description">Power Conversion/Distribution</figcaption>
+<figcaption>Power Conversion/Distribution</figcaption>
 </figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875.jpg" data-size="977x1303"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875-thumbnail.jpg" alt="" width="768" height="1024"></a>
-<figcaption class="gallery__item-description">Mains Connector</figcaption>
+<figcaption>Mains Connector</figcaption>
 </figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872-thumbnail.jpg" alt="" width="768" height="576"></a>
-<figcaption class="gallery__item-description">Bundles of Ethernet cables (meticulously labelled and unceremoniously removed)</figcaption>
+<figcaption>Bundles of Ethernet cables (meticulously labelled and unceremoniously removed)</figcaption>
 </figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851.jpg" data-size="708x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851-thumbnail.jpg" alt="" width="708" height="944"></a>
-<figcaption class="gallery__item-description">Power strips from the mains converter.</figcaption>
+<figcaption>Power strips from the mains converter.</figcaption>
 </figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855.jpg" data-size="1259x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855-thumbnail.jpg" alt="" width="768" height="576"></a>
-<figcaption class="gallery__item-description">Power supplies on the S6500 chassis</figcaption>
+<figcaption>Power supplies on the S6500 chassis</figcaption>
 </figure>
 </div></div>
 <h2 class="msg--highlight">Why</h2>
@@ -281,7 +281,9 @@
 <p>Fast forward to 2020 and virtualization has blown up in popularity. With technologies like Docker or LXC it is easy to turn any server into a personal cloud service (equivalent ~ Netflix/Dropbox/Facebook/Google Photos/Nest/etc) with free and open-source software (FOSS). </p>
 <p class="msg msg--success">Running a personal server at home means that you own and control your data. Privacy is preserved and companies aren't selling your personal data to the highest bidder.</p>
 <h3>Cut the the chase</h3>
-<h2><figure class="post__image post__image--center"><img loading="lazy"  src="https://media.giphy.com/media/ln1j2Bz4PyE8KMyW2g/giphy.gif" data-is-external-image="true"  alt="" width="260" height="260"></figure></h2>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://media.giphy.com/media/ln1j2Bz4PyE8KMyW2g/giphy.gif" data-is-external-image="true"  alt="" width="260" height="260">
+<figcaption >Caption</figcaption>
+</figure>
 <p>Well, there are two reasons that these new servers are useful.</p>
 <ol>
 <li>High availability</li>
