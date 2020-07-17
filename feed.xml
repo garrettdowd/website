@@ -19,7 +19,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T15:07:10-04:00</updated>
+        <updated>2020-07-17T15:12:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -68,7 +68,7 @@
         <id>https://blog.garrettdowd.com/glyde/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T15:07:10-04:00</updated>
+        <updated>2020-07-17T15:12:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -146,7 +146,7 @@
         <id>https://blog.garrettdowd.com/imods/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-17T15:07:10-04:00</updated>
+        <updated>2020-07-17T15:12:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
@@ -227,7 +227,7 @@
             <category term="Projects"/>
             <category term="Computing"/>
 
-        <updated>2020-07-17T15:07:10-04:00</updated>
+        <updated>2020-07-17T15:12:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
@@ -261,17 +261,20 @@
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6874-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Power Conversion/Distribution</figcaption>
 </figure>
-<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875.jpg" data-size="977x1303"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875-thumbnail.jpg" alt="" width="768" height="1024"></a>
-<figcaption>Mains Connector</figcaption>
-</figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872.jpg" data-size="1277x958"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6872-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Bundles of Ethernet cables (meticulously labelled and unceremoniously removed)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855.jpg" data-size="1259x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>Power supplies on the S6500 chassis</figcaption>
 </figure>
 <figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851.jpg" data-size="708x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6851-thumbnail.jpg" alt="" width="708" height="944"></a>
 <figcaption>Power strips from the mains converter.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855.jpg" data-size="1259x944"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6855-thumbnail.jpg" alt="" width="768" height="576"></a>
-<figcaption>Power supplies on the S6500 chassis</figcaption>
+<figure class="gallery__item"><a href="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875.jpg" data-size="977x1303"><img loading="lazy" src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd-dev1-gcp/input/media/posts/1/gallery/IMG_6875-thumbnail.jpg" alt="" width="768" height="1024"></a>
+<figcaption>Mains Connector</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/1/gallery/IMG_7625.jpg" data-size="1440x1920"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/1/gallery/IMG_7625-thumbnail.jpg" alt="" width="768" height="1024"></a>
+<figcaption>1 of 2 NVIDIA Tesla GPUs</figcaption>
 </figure>
 </div></div>
 <h2 class="msg--highlight">Why</h2>
