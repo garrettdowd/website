@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Garrett Dowd</title>
-    <link href="https://garrettdowd.github.io/website/feed.xml" rel="self" />
-    <link href="https://garrettdowd.github.io/website" />
+    <link href="https://blog.garrettdowd.com/feed.xml" rel="self" />
+    <link href="https://blog.garrettdowd.com" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Garrett Dowd</name>
     </author>
-    <id>https://garrettdowd.github.io/website</id>
+    <id>https://blog.garrettdowd.com</id>
 
     <entry>
         <title>HyperloopTT</title>
         <author>
             <name>Garrett Dowd</name>
         </author>
-        <link href="https://garrettdowd.github.io/website/hyperlooptt/"/>
-        <id>https://garrettdowd.github.io/website/hyperlooptt/</id>
+        <link href="https://blog.garrettdowd.com/hyperlooptt/"/>
+        <id>https://blog.garrettdowd.com/hyperlooptt/</id>
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-07-13T16:47:42-04:00</updated>
+        <updated>2020-07-17T03:12:58-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://garrettdowd.github.io/website/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
+                        <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
                     If you haven't had a chance to read the article on Glyde, now is your chance. My journey with HyperloopTT&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://garrettdowd.github.io/website/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
-                <p>If you haven't had a chance to read the article on <a href="https://garrettdowd.github.io/website/glyde/">Glyde</a>, now is your chance. My journey with <a href="https://www.hyperlooptt.com/" target="_blank" rel="noopener noreferrer">HyperloopTT</a> began while pitching Flexrail at <a href="https://ff.co/" target="_blank" rel="noopener noreferrer">Founders Forum</a>.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/6/Annotation-2020-07-13-151941.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-md.png 768w ,https://garrettdowd.github.io/website/media/posts/6/responsive/Annotation-2020-07-13-151941-lg.png 1200w"  alt="" width="615" height="317"></figure>
+                    <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
+                <p>If you haven't had a chance to read the article on <a href="https://blog.garrettdowd.com/glyde/">Glyde</a>, now is your chance. My journey with <a href="https://www.hyperlooptt.com/" target="_blank" rel="noopener noreferrer">HyperloopTT</a> began while pitching Flexrail at <a href="https://ff.co/" target="_blank" rel="noopener noreferrer">Founders Forum</a>.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/6/Annotation-2020-07-13-151941.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/6/responsive/Annotation-2020-07-13-151941-xs.png 384w ,https://blog.garrettdowd.com/media/posts/6/responsive/Annotation-2020-07-13-151941-sm.png 600w ,https://blog.garrettdowd.com/media/posts/6/responsive/Annotation-2020-07-13-151941-md.png 768w ,https://blog.garrettdowd.com/media/posts/6/responsive/Annotation-2020-07-13-151941-lg.png 1200w"  alt="" width="615" height="317"></figure>
 <p>Where I met Bibop Gresta, founder and former chairman of HyperloopTT. He charismatically criticized my work with Flexrail and somehow my work with HyperloopTT developed quickly in the following months. </p>
 <p>I started on a crypto-currency project using Glyde as a blueprint to build a utility strategy for a new crypto-currency. I <strong>delivered a whitepaper</strong> to executive leadership and worked with them directly on strategy until the project was cancelled. After the crypto-currency project I continued to collaborate with exec leadership across a range of topics.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4136.JPG" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4136-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4136.JPG" data-size="1172x879"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4136-thumbnail.JPG" alt="" width="768" height="576"></a>
 <figcaption>London</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605.jpg" data-size="1172x879"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/5c42d560-2092-4a60-8bb8-06b1b0431605-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Dubai</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763.jpg" data-size="1024x768"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763.jpg" data-size="1024x768"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/18980de5-1039-4f64-bc9d-f3a421aae763-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Belo Horizonte, Brazil</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4031.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4031-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4031.jpg" data-size="1172x879"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4031-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Cleveland, Ohio</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4035.JPG" data-size="960x720"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/IMG_4035-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4035.JPG" data-size="960x720"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/IMG_4035-thumbnail.JPG" alt="" width="768" height="576"></a>
 <figcaption>Cleveland, Ohio</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40.jpg" data-size="1172x879"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40.jpg" data-size="1172x879"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/6/gallery/599ab9a8-cbdb-4f23-a637-2ff2889d6e40-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Los Angeles</figcaption>
 </figure>
 </div></div>
 <p>Overall, I worked with HyperloopTT across 4 continents developing strategy and working with stakeholders. The pictures above are from a few of those experiences.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/6/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-xs.jpg 384w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-sm.jpg 600w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-md.jpg 768w ,https://garrettdowd.github.io/website/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-lg.jpg 1200w"  alt="" width="903" height="677"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/6/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-xs.jpg 384w ,https://blog.garrettdowd.com/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-sm.jpg 600w ,https://blog.garrettdowd.com/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-md.jpg 768w ,https://blog.garrettdowd.com/media/posts/6/responsive/557fcdd0-ce03-4b1b-9fdb-a15bf1ba0a5e-lg.jpg 1200w"  alt="" width="903" height="677"></figure>
 <p class="msg--highlight  msg--info msg">However, it is important to point out that HyperloopTT is not an average startup. <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=52627" target="_blank" rel="noopener noreferrer">Harvard Business School developed a case study</a> around HyperloopTT's business model. To summarize, Hyperloop has only a handful of full-time employees and instead utilizes a large group (800+) of contributors and partner companies to achieve business goals. These contributors and partners receive future equity in exchange for their work. I was one of these contributors and my involvement was part-time. </p>
             ]]>
         </content>
@@ -64,20 +64,20 @@
         <author>
             <name>Garrett Dowd</name>
         </author>
-        <link href="https://garrettdowd.github.io/website/glyde/"/>
-        <id>https://garrettdowd.github.io/website/glyde/</id>
+        <link href="https://blog.garrettdowd.com/glyde/"/>
+        <id>https://blog.garrettdowd.com/glyde/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-13T16:47:42-04:00</updated>
+        <updated>2020-07-17T03:12:58-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://garrettdowd.github.io/website/media/posts/5/glyde.png" alt="" />
+                        <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
                     Glyde is a new type of dynamic pricing for transportation. So new that we created a new name for it,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://garrettdowd.github.io/website/media/posts/5/glyde.png" alt="" />
+                    <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
                 <p class="msg msg--success">Glyde is a new type of dynamic pricing for transportation. So new that we created a new name for it, flex pricing. I was the lead product manager and founder of Glyde and this is a quick story about it.</p>
 <h2> </h2>
 <h2><span style="text-decoration: underline;"><strong>Dynamic pricing.</strong></span><strong> 😬</strong></h2>
@@ -94,23 +94,23 @@
 <p class="msg msg--highlight ">But what if there was a mechanism that <em>removed the need to predict price sensitivity</em>? <em><strong>What if a customer would willingly divulge their price sensitivity</strong></em>... to their ultimate benefit? This is the question at the core of Glyde.</p>
 <h3> </h3>
 <h3>In The Beginning 🚆</h3>
-<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-10-213739.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-10-213739-lg.png 1200w"  alt="" width="449" height="122"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://blog.garrettdowd.com/media/posts/5/Annotation-2020-07-10-213739.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-10-213739-xs.png 384w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-10-213739-sm.png 600w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-10-213739-md.png 768w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-10-213739-lg.png 1200w"  alt="" width="449" height="122"></figure>
 <p>Glyde was born as <span style="text-decoration: underline;"><strong>Flexrail</strong></span> from Hacktrain 3.0, the premier rail industry hackathon in Europe and possibly the best overall hackathon... ever. Hacktrain 3.0 was a 48-hour marathon that took place on moving trains across Europe with stops across 9 different venues. <a href="https://www.silverrailtech.com/hacktrain-an-inside-persepective/" target="_blank" rel="noopener noreferrer">Here is a written account of the event</a> from they folks at SilverRail. Or better yet, watch the official video below.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/f8AxokvfcX0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>If the video didn't already spoil it, Flexrail placed first in the competition. I was the team lead and pitched the product at the finals.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/IMG_7562.JPG" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-xs.JPG 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-sm.JPG 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-md.JPG 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/IMG_7562-lg.JPG 1200w"  alt="" width="518" height="291"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/5/IMG_7562.JPG" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/5/responsive/IMG_7562-xs.JPG 384w ,https://blog.garrettdowd.com/media/posts/5/responsive/IMG_7562-sm.JPG 600w ,https://blog.garrettdowd.com/media/posts/5/responsive/IMG_7562-md.JPG 768w ,https://blog.garrettdowd.com/media/posts/5/responsive/IMG_7562-lg.JPG 1200w"  alt="" width="518" height="291"></figure>
 <p>Hacktrain was not the only success. I won additional entrepreneurial awards and competitions including UCL Bright Ideas and FFactor. FFactor allowed me to pitch Flexrail at the lauded Founder's Forum in front of founders, CEOs and even Prince Harry and David Cameron. Founder's Forum is also where I met Bibop Gresta, Founder and Chairman of HyperloopTT, but that is saved for another post.</p>
 <h3> </h3>
 <h3>The Flex Ticket 🍰</h3>
 <p class="msg msg--success">So why did Flexrail win so many awards?</p>
 <p>Let's start with the Flex Ticket. The Flex Ticket enables customers to trade travel flexibility for discounted tickets. Ultimately, this allows rail operators to offer discounted tickets targeted at price sensitive customers with little risk of losing yield on price insensitive customers.</p>
 <p>Let's compare the Flex Ticket experience to a traditional ticketing experience provided by Trainline, a leading rail ticketing platform in the UK.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/5/Trainline-Pricing.gif" alt="Traditional Booking Experience" width="241" height="429">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/5/Trainline-Pricing.gif" alt="Traditional Booking Experience" width="241" height="429">
 <figcaption >Traditional Booking Experience</figcaption>
 </figure>
 <p>The traditional ticketing experience shows a large number of ticket options to travel between London and Manchester. Users must scroll through all the listing to find the cheapest ticket that matches their travel requirements. The same tickets are also shown to every customer so traditional pricing techniques are employed to charge higher prices for services that are predicted to be more heavily used or of higher value.</p>
 <p class="msg msg--warning"><em>Note: There are many nuances to the way ticket prices are set, which is the result of a complex relationship between the government that owns to the infrastructure and the rail franchises that operate services on the network. More on this later</em></p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/5/Flexrail-Pricing.gif" alt="Flexrail Booking Experience" width="243" height="431">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/5/Flexrail-Pricing.gif" alt="Flexrail Booking Experience" width="243" height="431">
 <figcaption >Flexrail Booking Experience</figcaption>
 </figure>
 <p>Unlike traditional ticketing, the Flex Ticket experience is a two step process.</p>
@@ -121,19 +121,19 @@
 <p>So the main concept of a Flex Ticket is that customers are trading the certainty of their travel time for a price discount. This notion fits fairly well with existing economic theory. The more interesting insight is that the most price sensitive customer select the largest Travel Window. </p>
 <p class="msg msg--success">Price sensitivity = Flexibility = Time = $<span class="LrzXr kno-fv">£</span>‎€</p>
 <p>Better yet, there is a near perfect linear correlation between price sensitivity and travel flexibility confirmed by over 150 user interviews. This is the roux of the secret sauce that powered Flexrail's algorithms.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-13-133336.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-133336-lg.png 1200w"  alt="" width="456" height="390"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/5/Annotation-2020-07-13-133336.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-133336-xs.png 384w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-133336-sm.png 600w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-133336-md.png 768w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-133336-lg.png 1200w"  alt="" width="456" height="390"></figure>
 <p>But Wait. There's More.</p>
 <p> </p>
 <h4>Dynamic Load Factor Smoothing (DLFS)</h4>
 <p>The Flex Ticket mechanism allowed Flexrail to optimize the loading of high frequency services. </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/5/Annotation-2020-07-13-143126.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-md.png 768w ,https://garrettdowd.github.io/website/media/posts/5/responsive/Annotation-2020-07-13-143126-lg.png 1200w"  alt=""></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/5/Annotation-2020-07-13-143126.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-143126-xs.png 384w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-143126-sm.png 600w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-143126-md.png 768w ,https://blog.garrettdowd.com/media/posts/5/responsive/Annotation-2020-07-13-143126-lg.png 1200w"  alt=""></figure>
 <p>Using historical and real-time ticketing data I built a prediction model to estimate future loading over an arbitrary time-span. This allowed Flexrail's algorithms to assign Flex Ticket holders to trains predicted to be less full. It is important to note that the predictions have accuracy limitations and only Flex Tickets can be optimally assigned. This means that DLFS will not solve problems like <em>peak loading</em> for certain commuter routes. However, there are industries other than transportation where DLFS is much more useful such as theme parks.</p>
 <p> </p>
 <h3>Why Flexrail Ultimately Failed</h3>
 <p>Rail markets are complex and slow moving monoliths. Unlike rail markets in countries where the entire rail system is nationalized, the UK rail market is partially privatized. The government, Network Rail, owns the infrastructure but does not operate any services. Private companies compete for "franchises" to operate a defined service or route. The franchises are defined with extreme detail and give private companies little flexibility to deviate from the franchise contract.</p>
 <p>In fact, the amount of money that a private company makes from a rail franchise is stipulated in the contract. Any extra profit the franchise makes must be given back to the government. Ticket types and prices are also regulated by the government to varying degrees. </p>
 <p>These factors combined with the personal challenges of living abroad in London led to the eventual spin-down of the Flexrail business efforts.</p>
-<p>However, this was the beginning of Glyde, a pivot away from the rail industry. A pivot that allowed me to work around the world with some amazing people. Read more about this in my article on <a href="https://garrettdowd.github.io/website/hyperlooptt/">HyperloopTT.</a></p>
+<p>However, this was the beginning of Glyde, a pivot away from the rail industry. A pivot that allowed me to work around the world with some amazing people. Read more about this in my article on <a href="https://blog.garrettdowd.com/hyperlooptt/">HyperloopTT.</a></p>
             ]]>
         </content>
     </entry>
@@ -142,20 +142,20 @@
         <author>
             <name>Garrett Dowd</name>
         </author>
-        <link href="https://garrettdowd.github.io/website/imods/"/>
-        <id>https://garrettdowd.github.io/website/imods/</id>
+        <link href="https://blog.garrettdowd.com/imods/"/>
+        <id>https://blog.garrettdowd.com/imods/</id>
             <category term="Product Management"/>
 
-        <updated>2020-07-13T16:47:42-04:00</updated>
+        <updated>2020-07-17T03:12:58-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://garrettdowd.github.io/website/media/posts/4/iMods-Logo-Blue.png" alt="" />
+                        <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
                     A great smartphone makes tasks simpler and easier. Apple is famous for creating simple devices that make our lives easier,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://garrettdowd.github.io/website/media/posts/4/iMods-Logo-Blue.png" alt="" />
+                    <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
                 <blockquote>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">A great smartphone makes tasks simpler and easier. Apple is famous for creating simple devices that make our lives easier, but with 300+ million users is a one-size-fits-all approach really that simple anymore? - iMods Pitch 2014</span></p>
 </blockquote>
@@ -179,36 +179,36 @@
 <p class="msg msg--success"><strong>This was iMods.</strong></p>
 <h2>iMods</h2>
 <p>I joined iMods as a co-founder and product manager in 2014. The majority of the team worked remotely and were located around the world from Greece to California. We also had an angel-investor that provided a group of local developers.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://garrettdowd.github.io/website/media/posts/4/Picture1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-xs.png 384w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-sm.png 600w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-md.png 768w ,https://garrettdowd.github.io/website/media/posts/4/responsive/Picture1-lg.png 1200w"  alt="" width="182" height="371"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/4/Picture1.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/4/responsive/Picture1-xs.png 384w ,https://blog.garrettdowd.com/media/posts/4/responsive/Picture1-sm.png 600w ,https://blog.garrettdowd.com/media/posts/4/responsive/Picture1-md.png 768w ,https://blog.garrettdowd.com/media/posts/4/responsive/Picture1-lg.png 1200w"  alt="" width="182" height="371"></figure>
 <p>So instead of telling you about iMods let me just show you. The following image gallery details the original user interface mockups.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="6">
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/Login.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/Login-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410598.97_1344666.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410598.97_1344666-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410694.93_1345494.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410694.93_1345494-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410698.44_1345495.jpg" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397410698.44_1345495-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.4_1344665.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.4_1344665-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.54_1344669.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.54_1344669-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.42_1344667.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.42_1344667-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.52_1344668.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390828.52_1344668-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412253.77_1345496.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412253.77_1345496-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412293.43_1345532.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397412293.43_1345532-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.38_1346097.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.38_1346097-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390631.56_1342513.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397390631.56_1342513-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.42_1346099.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.42_1346099-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.45_1346098.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418314.45_1346098-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418321.66_1346096.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418321.66_1346096-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418324.9_1344847.jpg" data-size="x"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/1397418324.9_1344847-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/Login.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/Login-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397410598.97_1344666.jpg" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397410598.97_1344666-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397410694.93_1345494.jpg" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397410694.93_1345494-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397410698.44_1345495.jpg" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397410698.44_1345495-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.4_1344665.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.4_1344665-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.54_1344669.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.54_1344669-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.42_1344667.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.42_1344667-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.52_1344668.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397390828.52_1344668-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397412253.77_1345496.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397412253.77_1345496-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397412293.43_1345532.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397412293.43_1345532-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.38_1346097.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.38_1346097-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397390631.56_1342513.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397390631.56_1342513-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.42_1346099.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.42_1346099-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.45_1346098.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397418314.45_1346098-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397418321.66_1346096.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397418321.66_1346096-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/1397418324.9_1344847.jpg" data-size="x"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/1397418324.9_1344847-thumbnail.jpg" alt="" width="640" height="1136"></a></figure>
 </div></div>
 <p>And here are a few screenshots from an early version of the app running in the XCode simulator.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="4">
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3418.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3418-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3419.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3419-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3421.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3421-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3422.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3422-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3423.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3423-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3424.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3424-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3426.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3426-thumbnail.png" alt="" width="640" height="1136"></a></figure>
-<figure class="gallery__item"><a href="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3429.png" data-size="640x1136"><img loading="lazy" src="https://garrettdowd.github.io/website/media/posts/4/gallery/IMG_3429-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3418.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3418-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3419.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3419-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3421.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3421-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3422.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3422-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3423.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3423-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3424.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3424-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3426.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3426-thumbnail.png" alt="" width="640" height="1136"></a></figure>
+<figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3429.png" data-size="640x1136"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/4/gallery/IMG_3429-thumbnail.png" alt="" width="640" height="1136"></a></figure>
 </div></div>
 <p>We did a few things really well. User interface and community engagement were at the top of our accomplishments with buy-in from top developers and viral popularity from users. Here is a teaser video showcasing some of the software available on iMods.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6BWY0-zIVY8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
@@ -222,21 +222,21 @@
         <author>
             <name>Garrett Dowd</name>
         </author>
-        <link href="https://garrettdowd.github.io/website/supercomputer/"/>
-        <id>https://garrettdowd.github.io/website/supercomputer/</id>
+        <link href="https://blog.garrettdowd.com/supercomputer/"/>
+        <id>https://blog.garrettdowd.com/supercomputer/</id>
             <category term="Engineering"/>
             <category term="Computing"/>
 
-        <updated>2020-07-13T16:47:42-04:00</updated>
+        <updated>2020-07-17T03:12:58-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://garrettdowd.github.io/website/media/posts/1/servers.jpg" alt="" />
+                        <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
                     IntroI bought a supercomputer. Well... to be more accurate I bought about 10% of the Oakley supercomputer which was managed by the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://garrettdowd.github.io/website/media/posts/1/servers.jpg" alt="" />
+                    <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
                 <h2>Intro</h2>
 <p>I bought a supercomputer.</p>
 <p>Well... to be more accurate I bought about 10% of the <a href="https://www.osc.edu/resources/technical_support/supercomputers/oakley">Oakley supercomputer</a> which was managed by the Ohio Supercomputer Center (OSC). The supercomputer cluster consisted of ~750 computers (nodes) that could be run in parallel for massive simulations and other technical computing. It featured a peak performance of 154.1 <a href="https://www.reddit.com/r/compsci/comments/bivyih/flops_vs_ips_regarding_supercomputerswhats_the/">teraflops</a> (CPU&amp;GPU) and used an ungodly amount of energy. Oakley was decommissioned in 2019 and is in the process of being liquidated. </p>
