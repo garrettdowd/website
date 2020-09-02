@@ -10,6 +10,292 @@
     <id>https://blog.garrettdowd.com</id>
 
     <entry>
+        <title>uFarm | Product</title>
+        <author>
+            <name>Garrett Dowd</name>
+        </author>
+        <link href="https://blog.garrettdowd.com/designing-ufarm/"/>
+        <id>https://blog.garrettdowd.com/designing-ufarm/</id>
+            <category term="Projects"/>
+            <category term="Product Management"/>
+            <category term="Food"/>
+            <category term="Engineering"/>
+
+        <updated>2020-09-02T14:39:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
+                    Growing your own food can be as simple as a plant in a glass of water. However, a glass of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
+                <p>Growing your own food can be as simple as a plant in a glass of water. However, a glass of water did not solve my frowing food at home problems. So, I designed and built an automated, apartment-sized, aquaponic grow system that I released as an open-source project on Github.</p>
+<p>This article will attempt to capture both the ideas and challenges of the design process. For the motivation behind this project check out my article, <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a>. <a href="https://blog.garrettdowd.com/why-food-sucks/"></a>This series will delve into three distinct areas of the design process;</p>
+<ol>
+<li>Product | Building a useful product that actually solves problems.</li>
+<li><a href="#non-existing-post-with-id-26">Aquaponics | Plant science turned into design parameters.</a> (Coming mid-September)</li>
+<li><a href="#non-existing-post-with-id-27">Engineering | Iterative design of a cyber-physical system.</a> (Coming late September)</li>
+</ol>
+<p>The series will end with;</p>
+<ol>
+<li><a href="#non-existing-post-with-id-25">Outcomes | Running and testing the prototype.</a></li>
+<li><a href="#non-existing-post-with-id-25">Build Log | Pictures and comments from the process.</a></li>
+</ol>
+<h2 id="mcetoc_1eh0v94l53hj">Social Impact Disclaimer</h2>
+<p>uFarm is built with the intent for social impact like a non-profit. The main objective is to educate people about the food they eat while solving some pain points long the way.</p>
+<p>The organic movement is a good example of what uFarm is trying to achieve. Without the work of film makers and non-profits, consumers would have no reason to choose organic produce at the shop or eat at a farm to table restaurant. While the organic movement has become overly commercialized, it has at least moved the public to be more conscious of what they eat.</p>
+<p>So like a regular product uFarm intends to solve real user problems/pains. Additionally, as a social impact project uFarm attempts to tackle systemic problems with the food system that cause <a href="https://blog.garrettdowd.com/why-food-sucks/">chronic disease and ecological destruction</a>.</p>
+<p>So yeah, since product design is sooo easy I figured adding social impact requirements should make it more of a challenge...😅</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1eh0v94l53hj">Social Impact Disclaimer</a></li>
+<li><a href="#mcetoc_1eh0v94l53hk">Product</a>
+<ul>
+<li><a href="#mcetoc_1eh0v94l53hl">Problems</a></li>
+<li><a href="#mcetoc_1eh0v94l63hm">Users</a></li>
+<li><a href="#mcetoc_1eh0v94l63hn">Business Environment</a>
+<ul>
+<li><a href="#mcetoc_1eh7uv3djft">Competition</a></li>
+<li><a href="#mcetoc_1eh7uv3djfu">Technology Trends</a></li>
+<li><a href="#mcetoc_1eh7uv3djfv">Regulatory</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1eh0v94l63hr">Product Specs</a></li>
+<li><a href="#mcetoc_1eh0v94l63ho">Trade-offs</a>
+<ul>
+<li><a href="#mcetoc_1eh7q4ekdf6">Aquaponic vs Nutrient Dosing</a></li>
+<li><a href="#mcetoc_1eh7q4ekdf7">Size</a></li>
+<li><a href="#mcetoc_1eh7q4ekdf8">Automation</a></li>
+<li><a href="#mcetoc_1eh7q4ekdf9">Customizability vs Simplicity</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1eh0v94l53hk">Product</h2>
+<p>What problems does uFarm solve? Who is it for? How is it strategically positioned? What features should be built first? These are all part of the product vision that inform engineering design choices. While uFarm is an experimental side project that is not meant to be commercialized, it is meant to have value. Product and user focused thinking helped me to test more valuable hypotheses with the initial uFarm prototype.</p>
+<h3 id="mcetoc_1eh0v94l53hl">Problems</h3>
+<p>Taking startup methods cues from Steve Blank and Eric Ries, uFarm is based on a number of value hypotheses. There are a number of practical problems that uFarm intends to solve.</p>
+<ol>
+<li><strong>Food spoilage</strong>
+<ol>
+<li>A surprising amount of food waste occurs because food portions sold at groceries are too large or because you didn't get around to making that basil pesto as soon as you had hoped.</li>
+</ol>
+</li>
+<li><strong>Time</strong>
+<ol>
+<li>It is taco night, how often have you forgotten the cilantro/corriander and had to take a quick run to the shop. Or, more realistically, you have taco supplies at home and there is no way that you are venturing outside of your house to buy fresh produce.</li>
+</ol>
+</li>
+<li><strong>Cannot purchase at grocer</strong>
+<ol>
+<li>For culinary enthusiasts it can be hard to find ethnic or regional varieties of herbs. Kaffir lime, curry leaves, holy/thai basil, birdseye chilis, and even lemongrass can be hard to find. Because these herbs are less popular they sit on shelves for longer periods and quickly loose their flavor and/or spoil before they make it into your mouth.</li>
+</ol>
+</li>
+<li><strong>Sustainability and production transparency</strong>
+<ol>
+<li>What you choose to eat has a large impact on the environment and people's lives. At the end of the day certifications and labels like USDA Organic or Free-Trade Certified are ultimately paperwork with signatures corroborated by a few inspections. While I am not trying to sow distrust in these certifications, cases of document forgery or falsified information do occur. </li>
+</ol>
+</li>
+</ol>
+<p>At a societal level there are additional problems. A quick overview of these problems were given from a system perspective in my article, <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a>. However, I want to reframe these problems with a user perspective.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/21/The-Uncooked-Chicken0672925011499429947.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/21/responsive/The-Uncooked-Chicken0672925011499429947-xs.jpg 384w ,https://blog.garrettdowd.com/media/posts/21/responsive/The-Uncooked-Chicken0672925011499429947-sm.jpg 600w ,https://blog.garrettdowd.com/media/posts/21/responsive/The-Uncooked-Chicken0672925011499429947-md.jpg 768w ,https://blog.garrettdowd.com/media/posts/21/responsive/The-Uncooked-Chicken0672925011499429947-lg.jpg 1200w"  alt="" width="450" height="292"></figure>
+<ul>
+<li><strong>Cooking is hard</strong><br>
+<ul>
+<li>Not everyone is a Ferran Adria or a Nathan Myhrvold. Many American families no longer pass down a plethora of family recipes for daily consumption. There are too many "influencer chefs" that give garbage recipes and poor cooking techniques. Deciding on what to cook and knowing how to cook it is too large of a barrier for many, especially if what you cook tastes no better than your local Chipotle.</li>
+<li>It takes a lot of time to go and buy fresh ingredients, especially if you <a href="http://www.foodsystemprimer.org/food-and-nutrition/hunger-and-food-insecurity/" target="_blank" rel="noopener noreferrer">live in a food desert</a>.</li>
+<li>It takes even more time to plan meals so that food does not spoil in your fridge.</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/21/SSF17-6-IMG_3139-copy.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/21/responsive/SSF17-6-IMG_3139-copy-xs.jpg 384w ,https://blog.garrettdowd.com/media/posts/21/responsive/SSF17-6-IMG_3139-copy-sm.jpg 600w ,https://blog.garrettdowd.com/media/posts/21/responsive/SSF17-6-IMG_3139-copy-md.jpg 768w ,https://blog.garrettdowd.com/media/posts/21/responsive/SSF17-6-IMG_3139-copy-lg.jpg 1200w"  alt="" width="376" height="282"></figure>
+<ul>
+<li><strong>You are good at tasting for sugar, not nutrition</strong>
+<ul>
+<li>That delicious apple at your local grocer was probably in storage for eight or more months. During that time it lost most of its nutritional value and is now just a convenient ball of sugar water. But hey it still tastes good right?</li>
+<li>That pint of cherry tomatoes you just got, yeah it was picked before it was ripe and then artificially ripened with ethylene gas during transportation. It doesn't have the same nutritional value as tomatoes allowed to naturally ripen on the plant.</li>
+<li><a href="http://www.foodsystemprimer.org/food-and-nutrition/food-marketing-and-labeling/" target="_blank" rel="noopener noreferrer">John Hopkins on the marketing and labeling of food</a></li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.copemanhealthcare.com/wp-content/uploads/2014/11/calls-for-restricting-unhealthy-food-marketing-to-children.jpg" data-is-external-image="true"  alt="" width="450" height="171"></figure>
+<ul>
+<li><strong>No one taught me</strong>
+<ul>
+<li>Home economic classes have been killed off. Both parents have full time jobs. Food is bought in plastic containers. Potatoes grow on trees like tomatoes, right?</li>
+<li><a href="http://www.foodsystemprimer.org/food-and-nutrition/food-environments/" target="_blank" rel="noopener noreferrer">How we eat is heavily influenced by family, friends, and society.</a></li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.smallfootprintfamily.com/wp-content/uploads/plastic-is-toxic.jpg" data-is-external-image="true"  alt="" width="400" height="279"></figure>
+<ul>
+<li><strong>Out of sight, out of mind</strong>
+<ul>
+<li>The rain forest is being destroyed so you can eat your donuts and potato chips made with palm oil (often just listed as vegetable oil).</li>
+<li>Cattle farming. So many problems here from more deforestation to animal abuse.</li>
+<li>Human abuse. You really don't want to know how your tea and coffee is produced. It is quite ironic that American companies now support behavior which the Country fought against for independence, [cough] Boston Tea Party.</li>
+</ul>
+</li>
+</ul>
+<p>Wow. Those are a lot of problems. Hopefully the next sections are easier reads.</p>
+<h3 id="mcetoc_1eh0v94l63hm">Users</h3>
+<p>Passion for an idea can easily lead to feature creep and a lack of user focus. If the product is socially important then everyone should use it right? While widespread adoption may be the goal for the greatest social impact, product success does not grow on trees. Again taking cues from the tech startup world, Geoffrey Moore and his book Crossing the Chasm offer a commonly used framework to think about user categories and market adoption. This section will focus on</p>
+<ol>
+<li>Innovators</li>
+<li>Early Adopters</li>
+</ol>
+<p>The ideal <strong>innovator</strong> is both a tech and plant geek. There aren't many of us. We have a broad understanding of electronics/computers and love to build rather than talk. Each of us are interesting in plants for different reasons. Some of us found a love for plants through food, some of us grew up working in gardens or on farms, and some just want to grow plants on spaceships for interstellar journeys. The innovator has an account on Github and uses it to try out projects that other people have created. The innovator is not worried about blowing a fuse or fixing a leak.</p>
+<p>The <strong>early adopter</strong> is not as technically literate. However, what they lack in technical skill they make up for in passion for fixing our food system. They are careful about what food they buy and who they buy it from. They attend their local farmers market and they probably have a small garden at home. They may subscribe to food philosophies such as veganism, but they understand that these philosophies are about principles and not about rules. They are looking to do more, but time is a limiting factor.</p>
+<h3 id="mcetoc_1eh0v94l63hn">Business Environment</h3>
+<h4 id="mcetoc_1eh7uv3djft">Competition</h4>
+<p>uFarm is not the first automated home grow system. <a href="https://www.kickstarter.com/projects/grove-ecosystem/grove-ecosystem-grow-fresh-food-in-your-home/" target="_blank" rel="noopener noreferrer">Grove Ecosystem</a> is a failed startup that raised over $4M USD from high profiles investors like Tim Ferris in 2016. Grove struggled with manufacturing and seemed to fail at attracting early adopters. There are many smaller countertop aquaponic systems like <a href="https://ecobloom.se/" target="_blank" rel="noopener noreferrer">EcoGarden</a> and <a href="https://www.aquasprouts.com/" target="_blank" rel="noopener noreferrer">Aquasprouts</a>, however these are extremely small and simple solutions that are more of a display piece than a useful tool. There are also automated grow boxes that rely on nutrient dosing such as <a href="https://www.grobo.io/" target="_blank" rel="noopener noreferrer">Grobo</a>, <a href="https://www.seedolab.com/" target="_blank" rel="noopener noreferrer">Seedo</a>, and <a href="https://www.getleaf.co/" target="_blank" rel="noopener noreferrer">Leaf</a>. Most of the automated hydroponic systems focus on growing cannabis, which seems to be one of the only profitable target markets at the moment.</p>
+<p>There are very few open-source hydroponic projects. The most famous project is the <a href="https://www.nytimes.com/2020/05/13/business/media/mit-closes-food-computer-project.html" target="_blank" rel="noopener noreferrer">publicly criticized and recently closed</a> OpenAg project at MIT which created the <a href="https://en.wikipedia.org/wiki/Open_Agriculture_Initiative" target="_blank" rel="noopener noreferrer">Personal Food Computer</a>. </p>
+<p>There are also projects aimed at automating traditional soil culture such as <a href="https://farm.bot/" target="_blank" rel="noopener noreferrer">Farmbot</a>, a personal favorite. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/21/IMG_9400.JPG" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/21/responsive/IMG_9400-xs.JPG 384w ,https://blog.garrettdowd.com/media/posts/21/responsive/IMG_9400-sm.JPG 600w ,https://blog.garrettdowd.com/media/posts/21/responsive/IMG_9400-md.JPG 768w ,https://blog.garrettdowd.com/media/posts/21/responsive/IMG_9400-lg.JPG 1200w"  alt="" width="488" height="325"></figure>
+<p> </p>
+<p>People can also grow food in their backyard or on their windowsill, although many urban dwellers do not have either of those options. The figure below shows the options for growing food at home.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/21/Annotation-2020-09-02-133214.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-133214-xs.png 384w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-133214-sm.png 600w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-133214-md.png 768w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-133214-lg.png 1200w"  alt="" width="436" height="336"></figure>
+<p>For a more detailed comparison of solutions for home growing take a look at the <a href="https://en.wikipedia.org/wiki/Blue_Ocean_Strategy" target="_blank" rel="noopener noreferrer">Blue Ocean</a> style figure below.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/21/Annotation-2020-09-02-142236.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-142236-xs.png 384w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-142236-sm.png 600w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-142236-md.png 768w ,https://blog.garrettdowd.com/media/posts/21/responsive/Annotation-2020-09-02-142236-lg.png 1200w"  alt="" width="718" height="398"></figure>
+<h4 id="mcetoc_1eh7uv3djfu">Technology Trends</h4>
+<p>uFarm relies on the success and further development of a few core technologies.</p>
+<ul>
+<li>Light Emitting Diodes | Hail <a href="https://en.wikipedia.org/wiki/Haitz%27s_law" target="_blank" rel="noopener noreferrer">Haitz</a></li>
+<li>Sensors (pH, EC, DO, lux, etc) | Cost, robustness</li>
+<li>Cameras | Cost, wavelength</li>
+<li>Processors | <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank" rel="noopener noreferrer">Moore</a> please</li>
+<li>Web Tech | edge-computing and user interface capabilities</li>
+<li>Machine Learning | tools to automatically assess plant health problems</li>
+</ul>
+<h4 id="mcetoc_1eh7uv3djfv">Regulatory</h4>
+<p>The regulatory environment is non-prohibitive and there are a number of legislative opportunities that would be extremely beneficial including;</p>
+<ul>
+<li>Environmental Protection, Carbon Tax</li>
+<li>Supply Chain Transparency</li>
+<li>Agricultural Chemical Use Restrictions</li>
+<li>Redistribution of agricultural subsidies to better support small/local farmers</li>
+</ul>
+<p>(more detail to be added)</p>
+<h3 id="mcetoc_1eh0v94l63hr">Product Specs</h3>
+<p>While these aren't detailed product specs that would be used for Jira/Confluence, the following should give a good idea of how product design is prioritized. These product specs are for an MVP targeting innovators and do not represent the specs for the original prototype.</p>
+<ol>
+<li>Hardware
+<ol>
+<li>Footprint less than 10 ft2 or 1 m2</li>
+<li>Autonomous for a minimum of 1 month.</li>
+<li>Bimonthly maintenance/cleaning.</li>
+<li>Ability to grow any leafy green (vegetative growth)</li>
+<li>Production rate of 3 kilograms per month</li>
+<li>Off the shelf components, locally source-able</li>
+<li>Build time of 12 hours</li>
+<li>Limit tools to drill, saw, knife, wire stripper, and soldering pencil.</li>
+</ol>
+</li>
+<li>Software
+<ol>
+<li>Use existing open-source projects</li>
+<li>Extensible
+<ol>
+<li>Easily customize automation</li>
+<li>Integrate with smart home</li>
+<li>Community grow recipes</li>
+</ol>
+</li>
+<li>Remote Management</li>
+<li>One click install</li>
+</ol>
+</li>
+</ol>
+<h3 id="mcetoc_1eh0v94l63ho">Trade-offs</h3>
+<p>At a system level, there are a number of major decisions to make, each with their own (and sometimes coupled) trade-offs.</p>
+<h4 id="mcetoc_1eh7q4ekdf6">Aquaponic vs Nutrient Dosing</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Pros</td>
+<td style="width: 50%;">Cons</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<ul>
+<li>Aquaponics is inherently more stable (pH, nutrients), reducing the chance of plant death</li>
+<li>Nutrient dosing allows for greater control over growing conditions, including flowering/fruit growth</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul>
+<li>Aquaponics relies on establishing a bacterial colony</li>
+<li>Nutrient dosing is costly to automate and is sensitive to sensor drift which increases maintenance requirements</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1eh7q4ekdf7">Size</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">Larger</td>
+<td style="width: 50%;">Smaller</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<ul>
+<li>Grow more food</li>
+<li>Less sensitive to wide swings in growing conditions</li>
+<li>More customization and expandable</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul>
+<li>Takes up less space</li>
+<li>Smaller initial investment</li>
+<li>Less setup time</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1eh7q4ekdf8">Automation</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">More</td>
+<td style="width: 50%;">Less</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<ul>
+<li>Reduce maintenance</li>
+<li>Measure and optimize growing</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul>
+<li>Cheaper</li>
+<li>Simpler, smaller number of components that could fail</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1eh7q4ekdf9">Customizability vs Simplicity</h4>
+<p>With any product there is an inherent trade-off between customizability and simplicity. Android vs Apple, API vs web interface, blank notebook vs planner, etc. The clear initial design directive here is modularity. As seen in the sections above, there are clear engineering trade-offs for size and automation. Designing with these modularity parameters in mind can allow the product to shift in response to user demands.</p>
+<p> </p>
+<p>Next in this series is <a href="#non-existing-post-with-id-26">Aquaponics | Plant science turned into design parameters</a> (Coming mid-September) where we delve into the biology, chemistry, physics, and other physical science phenomena that make uFarm work.</p>
+<p><a href="#non-existing-post-with-id-26" class="btn">Read Part 2</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>How to Never Kill Another Plant</title>
         <author>
             <name>Garrett Dowd</name>
@@ -19,7 +305,7 @@
             <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
@@ -31,7 +317,7 @@
                     <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
                 <p class="msg msg--info">Over-watering is the #1 cause of houseplant death.</p>
 <p>What if I told you there was a way to never worry about watering your plants again, even when absent for months at a time. What if I told you there is a way to grow plants twice as fast with no synthetic fertilizer? This article will discuss how create a self-sustaining indoor grow system that requires very little maintenance and can provide a surprisingly large amount of food.</p>
-<p>In the previous two articles <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a> and <a href="https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/">The Future of Food is Hyper-local</a>, I reviewed critical issues with our current food system and potential solutions to those issues. Growing your own food is a small, but important piece of the solution to building a healthier, more sustainable food system. Using the scientific understanding of hydroponics and engineering principles from system design and automation, growing your own food can be a realistic goal even for time-constrained urban dwellers. This is the idea behind the <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm open-source project</a>. Learn more about <a href="#non-existing-post-with-id-21">how I designed uFarm.</a></p>
+<p>In the previous two articles <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a> and <a href="https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/">The Future of Food is Hyper-local</a>, I reviewed critical issues with our current food system and potential solutions to those issues. Growing your own food is a small, but important piece of the solution to building a healthier, more sustainable food system. Using the scientific understanding of hydroponics and engineering principles from system design and automation, growing your own food can be a realistic goal even for time-constrained urban dwellers. This is the idea behind the <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm open-source project</a>. Learn more about <a href="https://blog.garrettdowd.com/designing-ufarm/">how I designed uFarm.</a></p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://blog.garrettdowd.com/media/posts/20/gallery/IMG_6610.jpg" data-size="1263x947"><img loading="lazy" src="https://blog.garrettdowd.com/media/posts/20/gallery/IMG_6610-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Initial Concept Drawing</figcaption>
@@ -67,7 +353,7 @@
 </ol>
 <p>A variety of hydroponic techniques can be applied to aquaponics. The initial uFarm prototype uses flood &amp; drain media beds as well as deep water culture, however nutrient film technique or aeroponics can also be designed into an aquaponic system.</p>
 <h2>How uFarm Works</h2>
-<p>uFarm is not just a simple aquaponic system, it is a highly automated, connected, and integrated system. It was designed using a variety of engineering tools from Darcy-Weisbach fluid flow equations to multi-physics modelling for over-constrained mechanical loading conditions. The entire system is highly coupled, which is engineering speak that means if you change the size/design/specification of one component then it changes multiple other system component requirements. For simplicity, much of the high-level parametric design was carried out in a <a href="https://github.com/garrettdowd/ufarm/blob/master/System%20Design.xlsx" target="_blank" rel="noopener noreferrer">spreadsheet</a> that could be used to design systems that are larger or smaller. Don't worry, I am not going into technical detail in this article. However, if you want to dive into the design and engineering process then head to my article on <a href="#non-existing-post-with-id-21">Designing uFarm</a>.</p>
+<p>uFarm is not just a simple aquaponic system, it is a highly automated, connected, and integrated system. It was designed using a variety of engineering tools from Darcy-Weisbach fluid flow equations to multi-physics modelling for over-constrained mechanical loading conditions. The entire system is highly coupled, which is engineering speak that means if you change the size/design/specification of one component then it changes multiple other system component requirements. For simplicity, much of the high-level parametric design was carried out in a <a href="https://github.com/garrettdowd/ufarm/blob/master/System%20Design.xlsx" target="_blank" rel="noopener noreferrer">spreadsheet</a> that could be used to design systems that are larger or smaller. Don't worry, I am not going into technical detail in this article. However, if you want to dive into the design and engineering process then head to my article on <a href="https://blog.garrettdowd.com/designing-ufarm/">Designing uFarm</a>.</p>
 <p class="msg msg--info"> The idea behind uFarm is to hide a lot of the difficult engineering and biology behind easy to use design tools and user interfaces.</p>
 <p>To get a better sense of what goes into a uFarm system take a look at the system diagram below. This system is fully recirculating and contains enough water to run for more than a month (accounting for evaporation and plant uptake). In fact, this system requires less maintenance than a normal fish tank because the plants are doing the heavy lifting of removing excess nitrates from the system.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/20/Annotation-2020-08-24-120620.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/20/responsive/Annotation-2020-08-24-120620-xs.png 384w ,https://blog.garrettdowd.com/media/posts/20/responsive/Annotation-2020-08-24-120620-sm.png 600w ,https://blog.garrettdowd.com/media/posts/20/responsive/Annotation-2020-08-24-120620-md.png 768w ,https://blog.garrettdowd.com/media/posts/20/responsive/Annotation-2020-08-24-120620-lg.png 1200w"  alt=""></figure>
@@ -83,7 +369,7 @@
 <p>uFarm is built with this experimentation in mind. The system is capable of programmatically changing growing parameters such as light intensity, light spectral distribution, water cycles, humidity, and temperature. In other words, it can follow tried and tested grow recipes or it help you experiment and create your own.</p>
 <h2>How to Design Your Own uFarm</h2>
 <p>uFarm is more than just a single design as seen in pictures above. It aims to be a set of open-source design tools and software infrastructure that can help anyone create an automated hydroponic/aquaponic system that fits their specific needs (size, cost, types of plants).</p>
-<p>Unfortunately that goal is still a few years in the future. In the short-term, the project aims to offer more "base-models" or specific size configurations that will fit most users' needs. If you are technically included (hardware or software) then head over to the <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm Github</a> page and give it a follow. If you are interested in checking out the build log for the prototype system then check out my article on <a href="#non-existing-post-with-id-21">Designing uFarm</a>.</p>
+<p>Unfortunately that goal is still a few years in the future. In the short-term, the project aims to offer more "base-models" or specific size configurations that will fit most users' needs. If you are technically included (hardware or software) then head over to the <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm Github</a> page and give it a follow. If you are interested in checking out the build log for the prototype system then check out my article on <a href="https://blog.garrettdowd.com/designing-ufarm/">Designing uFarm</a>.</p>
 <p>Overall, the system worked amazingly well for a prototype. It kept me fed with seriously good tasting herbs and required almost zero effort/time. However, there was a lot of learning from the initial prototype.</p>
 <ol>
 <li>Building a custom glass fish tank was stupid hard for an inexperienced caulker. In my opinion, the aesthetic improvement was not worth the effort.</li>
@@ -105,10 +391,9 @@
         </author>
         <link href="https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/"/>
         <id>https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/</id>
-            <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/19/vertical-farming.webp" alt="" />
@@ -196,7 +481,7 @@
 </figure>
 </div></div>
 <p class="msg msg--info">As a cooking/food enthusiast and also a busy urban dweller, I sought a solution that would allow me to grow enough produce for daily meals..... inside my 700 sqft third-floor apartment.</p>
-<p>This is what led me to design and build <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm</a>, an automated nano-farm for urban dwellers.  If you are immediately interested in the technical details and build process then feel free to skip to my article on <a href="#non-existing-post-with-id-21">Designing uFarm</a>. Otherwise, the third article in this series will discuss the Why and What of uFarm. Continue reading to see how easy it is to grow your own food!</p>
+<p>This is what led me to design and build <a href="https://github.com/garrettdowd/ufarm" target="_blank" rel="noopener noreferrer">uFarm</a>, an automated nano-farm for urban dwellers.  If you are immediately interested in the technical details and build process then feel free to skip to my article on <a href="https://blog.garrettdowd.com/designing-ufarm/">Designing uFarm</a>. Otherwise, the third article in this series will discuss the Why and What of uFarm. Continue reading to see how easy it is to grow your own food!</p>
 <p><a href="https://blog.garrettdowd.com/how-to-never-kill-another-plant/" class="btn">Part 3</a></p>
 <p> </p>
 <p> </p>
@@ -213,7 +498,7 @@
             <category term="How-To"/>
             <category term="Fulbright"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/12/fulbright.jpg" alt="" />
@@ -608,7 +893,7 @@
         <id>https://blog.garrettdowd.com/fulbright-faq/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/17/dc_crop.jpg" alt="" />
@@ -722,10 +1007,9 @@
         </author>
         <link href="https://blog.garrettdowd.com/why-food-sucks/"/>
         <id>https://blog.garrettdowd.com/why-food-sucks/</id>
-            <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/9/Annotation-2020-08-27-182252.png" alt="" />
@@ -748,14 +1032,21 @@
 <li><a href="https://blog.garrettdowd.com/how-to-never-kill-another-plant/">How to Never Kill another Plant</a> | Building a Personal Automated Nano Farm</li>
 </ol>
 <p>First, I find that most people I talk to, including my family, have little idea how food ends up on their plate or in their mouth. What problems have been created by agricultural industrialization and how does hyper-local food production attempt to solve them?</p>
-<h2>Industrialized Agriculture</h2>
+<h2>Consolidation of Agriculture</h2>
 <p>How many farmers do you know today? How many different sub species or cultivars of bananas have you eaten?</p>
-<p>Over the last century, industrialization has pushed food production into the hands of fewer and fewer people [for-profit corporations] which produce fewer and fewer varieties of plants and animals.</p>
+<p>Over the last century, industrialization has pushed the majority of food production into the hands of fewer and fewer farms which produce fewer and fewer varieties of plants and animals. According to <a href="https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/farming-and-farm-income/" target="_blank" rel="noopener noreferrer">statistics from the USDA</a>, the number of farms in the U.S. has decreased from approximately seven million in 1935 to approximately two million today.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.ers.usda.gov/webdocs/Charts/58267/farms_fig01_9_2018_350px.png?v=5829.1" data-is-external-image="true"  alt="" width="350" height="279"></figure>
+<p>There are still two million farms, which is more than you might expect. However, the centralization of production volume is another story. Ninety percent of farms only account for twenty percent of production. Large scale farms make up only three percent of farms, but account for forty-six percent of total production value.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.ers.usda.gov/webdocs/Charts/90817/farms_fig03Nov2019_350px.png?v=5829.1" data-is-external-image="true"  alt="" width="350" height="279"></figure>
+<p><span style="text-decoration: underline;">Yet, farms are not where the majority of power consolidation has occurred.</span> The alarming consolidation is in seed production where a handful of chemical and pharmaceutical corporations control the market for many crops. Corporations like Dow, DuPont, and Bayer (acquired Monsanto) sell seeds because they can (and do) make killer profits from selling pesticides and other complimentary chemical products. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=42531" target="_blank" rel="noopener noreferrer">The USDA published a report in 2004</a> that details this consolidation. Similar analysis can be drawn for livestock production.</p>
+<p>The main point is that U.S. agriculture has consolidated to the point of concern, in my opinion. However, there is obviously more sides to the story. With consolidation comes optimization and the optimization is quite impressive.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.ers.usda.gov/webdocs/Charts/58283/farms_fig02_350px.png?v=2131.8" data-is-external-image="true"  alt="" width="350" height="279"></figure>
 <p class="msg msg--info">From an engineering perspective, industrial agriculture is an absolute marvel of modern process design, mechanization, and logistics.</p>
-<p>Hundreds of millions of people are being fed with a minimal amount of human time and effort. People can now spend more of their time on entertainment, relaxation, or investigating some of life's most interesting questions. Johns Hopkins has a great <a href="http://www.foodsystemprimer.org/food-production/industrialization-of-agriculture" target="_blank" rel="noopener noreferrer">overview the industrialization of food production</a>.</p>
+<p>Hundreds of millions of people are being fed with a minimal amount of human time and effort. People can now spend more of their time on entertainment, relaxation, or investigating some of life's most interesting questions. Johns Hopkins has a great <a href="http://www.foodsystemprimer.org/food-production/industrialization-of-agriculture" target="_blank" rel="noopener noreferrer">overview the industrialization of food production</a> and it effects including distribution and waste.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  style="font-size: 18.4px; outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://blog.garrettdowd.com/media/posts/9/soy-tractor-400x300.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/9/responsive/soy-tractor-400x300-xs.jpg 384w ,https://blog.garrettdowd.com/media/posts/9/responsive/soy-tractor-400x300-sm.jpg 600w ,https://blog.garrettdowd.com/media/posts/9/responsive/soy-tractor-400x300-md.jpg 768w ,https://blog.garrettdowd.com/media/posts/9/responsive/soy-tractor-400x300-lg.jpg 1200w"  alt="" width="355" height="266"></figure>
 <div>
 <div style="text-align: center;"> </div>
+<h2>Why Food Sucks</h2>
 <p>Again from a system and engineering point of view, food production is a process to be optimized to increase profit. This has led to plants/animals that are cultivated and engineered for</p>
 <ul>
 <li>high yield</li>
@@ -772,7 +1063,7 @@
 <li>increased reliance on highly processed foods</li>
 </ul>
 <p>Each of these topics are a book, or a series of book unto themselves. References will be added at the end of this articles as my time allows. The main point is that</p>
-<p class="msg msg--warning">Food is at the heart of many modern crises including chronic disease and environmental destruction. Systemic changes to food production are needed.</p>
+<p class="msg msg--warning">Food is at the heart of many modern crises including chronic disease and environmental destruction. Systemic changes to food production and consumption are needed.</p>
 <h2>How to Make Food Not Suck</h2>
 <p>The good news is that we are in the middle of an agricultural revolution. There are startups working on a huge range of ideas;</p>
 <ul>
@@ -787,6 +1078,10 @@
 <div>In part two of this series, <a href="https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/">The Future of Food is Hyper-local</a> | A Promising Vision for the Future of Agriculture, I delve into the proposed benefits of hyper-local food production and the science behind it.</div>
 <div> </div>
 <div><a href="https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/" class="btn">Part 2</a></div>
+<div> </div>
+<div>Updates:</div>
+<div>02/09/2020 - Added USDA statistics and resources on agricultural consolidation</div>
+<div> </div>
             ]]>
         </content>
     </entry>
@@ -800,7 +1095,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -841,7 +1136,7 @@
         </content>
     </entry>
     <entry>
-        <title>Glyde</title>
+        <title>Glyde | Designing Better Pricing</title>
         <author>
             <name>Garrett Dowd</name>
         </author>
@@ -850,7 +1145,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -920,15 +1215,15 @@
         </content>
     </entry>
     <entry>
-        <title>iMods</title>
+        <title>iMods | Challenging Apple &amp; iOS</title>
         <author>
             <name>Garrett Dowd</name>
         </author>
-        <link href="https://blog.garrettdowd.com/imods/"/>
-        <id>https://blog.garrettdowd.com/imods/</id>
+        <link href="https://blog.garrettdowd.com/imods-apple-ios-challenger/"/>
+        <id>https://blog.garrettdowd.com/imods-apple-ios-challenger/</id>
             <category term="Product Management"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
@@ -1009,7 +1304,7 @@
             <category term="Projects"/>
             <category term="Computing"/>
 
-        <updated>2020-08-29T19:03:57-04:00</updated>
+        <updated>2020-09-02T14:39:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
