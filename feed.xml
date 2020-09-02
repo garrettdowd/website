@@ -21,7 +21,7 @@
             <category term="Food"/>
             <category term="Engineering"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
@@ -31,8 +31,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
-                <p>Growing your own food can be as simple as a plant in a glass of water. However, a glass of water did not solve my frowing food at home problems. So, I designed and built an automated, apartment-sized, aquaponic grow system that I released as an open-source project on Github.</p>
-<p>This article will attempt to capture both the ideas and challenges of the design process. For the motivation behind this project check out my article, <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a>. <a href="https://blog.garrettdowd.com/why-food-sucks/"></a>This series will delve into three distinct areas of the design process;</p>
+                <p>Growing your own food can be as simple as a plant in a glass of water. However, a glass of water did not solve my food growing problems. So, I designed and built an automated, apartment-sized, aquaponic grow system that I released as an open-source project on Github. For the motivation behind this project check out my article, <a href="https://blog.garrettdowd.com/why-food-sucks/">Why Food Sucks</a>.</p>
+<p>This is the first article in a series about the uFarm product design process. The series will delve into three distinct areas of the design process;</p>
 <ol>
 <li>Product | Building a useful product that actually solves problems.</li>
 <li><a href="#non-existing-post-with-id-26">Aquaponics | Plant science turned into design parameters.</a> (Coming mid-September)</li>
@@ -305,7 +305,7 @@
             <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
@@ -393,7 +393,7 @@
         <id>https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/</id>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/19/vertical-farming.webp" alt="" />
@@ -498,7 +498,7 @@
             <category term="How-To"/>
             <category term="Fulbright"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/12/fulbright.jpg" alt="" />
@@ -893,7 +893,7 @@
         <id>https://blog.garrettdowd.com/fulbright-faq/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/17/dc_crop.jpg" alt="" />
@@ -1009,7 +1009,7 @@
         <id>https://blog.garrettdowd.com/why-food-sucks/</id>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/9/Annotation-2020-08-27-182252.png" alt="" />
@@ -1095,7 +1095,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -1145,7 +1145,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -1223,7 +1223,7 @@
         <id>https://blog.garrettdowd.com/imods-apple-ios-challenger/</id>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
@@ -1304,7 +1304,7 @@
             <category term="Projects"/>
             <category term="Computing"/>
 
-        <updated>2020-09-02T14:39:39-04:00</updated>
+        <updated>2020-09-02T14:45:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
