@@ -18,10 +18,9 @@
         <id>https://blog.garrettdowd.com/designing-ufarm/</id>
             <category term="Projects"/>
             <category term="Product Management"/>
-            <category term="Food"/>
             <category term="Engineering"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
@@ -44,10 +43,8 @@
 <li><a href="#non-existing-post-with-id-25">Build Log | Pictures and comments from the process.</a></li>
 </ol>
 <h2 id="mcetoc_1eh0v94l53hj">Social Impact Disclaimer</h2>
-<p>uFarm is built with the intent for social impact like a non-profit. The main objective is to educate people about the food they eat while solving some pain points long the way.</p>
+<p>uFarm is built with the intent for social impact. It attempts to solve real user problems/pains in a way that tackles <a href="https://blog.garrettdowd.com/why-food-sucks/">systemic problems with the food system</a>. In many ways it is a low cost experiment to assess the viability of a social startup.</p>
 <p>The organic movement is a good example of what uFarm is trying to achieve. Without the work of film makers and non-profits, consumers would have no reason to choose organic produce at the shop or eat at a farm to table restaurant. While the organic movement has become overly commercialized, it has at least moved the public to be more conscious of what they eat.</p>
-<p>So like a regular product uFarm intends to solve real user problems/pains. Additionally, as a social impact project uFarm attempts to tackle systemic problems with the food system that cause <a href="https://blog.garrettdowd.com/why-food-sucks/">chronic disease and ecological destruction</a>.</p>
-<p>So yeah, since product design is sooo easy I figured adding social impact requirements should make it more of a challenge...😅</p>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -79,11 +76,11 @@
 <h2 id="mcetoc_1eh0v94l53hk">Product</h2>
 <p>What problems does uFarm solve? Who is it for? How is it strategically positioned? What features should be built first? These are all part of the product vision that inform engineering design choices. While uFarm is an experimental side project that is not meant to be commercialized, it is meant to have value. Product and user focused thinking helped me to test more valuable hypotheses with the initial uFarm prototype.</p>
 <h3 id="mcetoc_1eh0v94l53hl">Problems</h3>
-<p>Taking startup methods cues from Steve Blank and Eric Ries, uFarm is based on a number of value hypotheses. There are a number of practical problems that uFarm intends to solve.</p>
+<p>Taking startup methods cues from Steve Blank and Eric Ries, uFarm is based on a number of hypotheses about the problem, user, and solution. In my opinion, startups in the personal food growing space often fail because they do not identify painful problems. Rather, they create new problems including maintenance and living space clutter. uFarm is focused on common problems that are shared by anyone who cooks food at home.</p>
 <ol>
 <li><strong>Food spoilage</strong>
 <ol>
-<li>A surprising amount of food waste occurs because food portions sold at groceries are too large or because you didn't get around to making that basil pesto as soon as you had hoped.</li>
+<li>A surprising amount of food waste occurs because food portions sold at groceries are too large or because you didn't get around to making that basil pesto as soon as you had hoped. This is especially true for people that do not live with a partner or family.</li>
 </ol>
 </li>
 <li><strong>Time</strong>
@@ -98,7 +95,7 @@
 </li>
 <li><strong>Sustainability and production transparency</strong>
 <ol>
-<li>What you choose to eat has a large impact on the environment and people's lives. At the end of the day certifications and labels like USDA Organic or Free-Trade Certified are ultimately paperwork with signatures corroborated by a few inspections. While I am not trying to sow distrust in these certifications, cases of document forgery or falsified information do occur. </li>
+<li>What you choose to eat has a large impact on the environment and people's lives. At the end of the day, certifications and labels like USDA Organic or Free-Trade Certified are ultimately stacks of paperwork that the consumer can neither view nor verify.</li>
 </ol>
 </li>
 </ol>
@@ -146,6 +143,7 @@
 </li>
 </ul>
 <p>Wow. Those are a lot of problems. Hopefully the next sections are easier reads.</p>
+<hr>
 <h3 id="mcetoc_1eh0v94l63hm">Users</h3>
 <p>Passion for an idea can easily lead to feature creep and a lack of user focus. If the product is socially important then everyone should use it right? While widespread adoption may be the goal for the greatest social impact, product success does not grow on trees. Again taking cues from the tech startup world, Geoffrey Moore and his book Crossing the Chasm offer a commonly used framework to think about user categories and market adoption. This section will focus on</p>
 <ol>
@@ -154,6 +152,7 @@
 </ol>
 <p>The ideal <strong>innovator</strong> is both a tech and plant geek. There aren't many of us. We have a broad understanding of electronics/computers and love to build rather than talk. Each of us are interesting in plants for different reasons. Some of us found a love for plants through food, some of us grew up working in gardens or on farms, and some just want to grow plants on spaceships for interstellar journeys. The innovator has an account on Github and uses it to try out projects that other people have created. The innovator is not worried about blowing a fuse or fixing a leak.</p>
 <p>The <strong>early adopter</strong> is not as technically literate. However, what they lack in technical skill they make up for in passion for fixing our food system. They are careful about what food they buy and who they buy it from. They attend their local farmers market and they probably have a small garden at home. They may subscribe to food philosophies such as veganism, but they understand that these philosophies are about principles and not about rules. They are looking to do more, but time is a limiting factor.</p>
+<hr>
 <h3 id="mcetoc_1eh0v94l63hn">Business Environment</h3>
 <h4 id="mcetoc_1eh7uv3djft">Competition</h4>
 <p>uFarm is not the first automated home grow system. <a href="https://www.kickstarter.com/projects/grove-ecosystem/grove-ecosystem-grow-fresh-food-in-your-home/" target="_blank" rel="noopener noreferrer">Grove Ecosystem</a> is a failed startup that raised over $4M USD from high profiles investors like Tim Ferris in 2016. Grove struggled with manufacturing and seemed to fail at attracting early adopters. There are many smaller countertop aquaponic systems like <a href="https://ecobloom.se/" target="_blank" rel="noopener noreferrer">EcoGarden</a> and <a href="https://www.aquasprouts.com/" target="_blank" rel="noopener noreferrer">Aquasprouts</a>, however these are extremely small and simple solutions that are more of a display piece than a useful tool. There are also automated grow boxes that rely on nutrient dosing such as <a href="https://www.grobo.io/" target="_blank" rel="noopener noreferrer">Grobo</a>, <a href="https://www.seedolab.com/" target="_blank" rel="noopener noreferrer">Seedo</a>, and <a href="https://www.getleaf.co/" target="_blank" rel="noopener noreferrer">Leaf</a>. Most of the automated hydroponic systems focus on growing cannabis, which seems to be one of the only profitable target markets at the moment.</p>
@@ -184,6 +183,7 @@
 <li>Redistribution of agricultural subsidies to better support small/local farmers</li>
 </ul>
 <p>(more detail to be added)</p>
+<hr>
 <h3 id="mcetoc_1eh0v94l63hr">Product Specs</h3>
 <p>While these aren't detailed product specs that would be used for Jira/Confluence, the following should give a good idea of how product design is prioritized. These product specs are for an MVP targeting innovators and do not represent the specs for the original prototype.</p>
 <ol>
@@ -214,6 +214,7 @@
 </ol>
 </li>
 </ol>
+<hr>
 <h3 id="mcetoc_1eh0v94l63ho">Trade-offs</h3>
 <p>At a system level, there are a number of major decisions to make, each with their own (and sometimes coupled) trade-offs.</p>
 <h4 id="mcetoc_1eh7q4ekdf6">Aquaponic vs Nutrient Dosing</h4>
@@ -289,7 +290,7 @@
 </table>
 <h4 id="mcetoc_1eh7q4ekdf9">Customizability vs Simplicity</h4>
 <p>With any product there is an inherent trade-off between customizability and simplicity. Android vs Apple, API vs web interface, blank notebook vs planner, etc. The clear initial design directive here is modularity. As seen in the sections above, there are clear engineering trade-offs for size and automation. Designing with these modularity parameters in mind can allow the product to shift in response to user demands.</p>
-<p> </p>
+<hr>
 <p>Next in this series is <a href="#non-existing-post-with-id-26">Aquaponics | Plant science turned into design parameters</a> (Coming mid-September) where we delve into the biology, chemistry, physics, and other physical science phenomena that make uFarm work.</p>
 <p><a href="#non-existing-post-with-id-26" class="btn">Read Part 2</a></p>
             ]]>
@@ -305,7 +306,7 @@
             <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
@@ -393,7 +394,7 @@
         <id>https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/</id>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/19/vertical-farming.webp" alt="" />
@@ -498,7 +499,7 @@
             <category term="How-To"/>
             <category term="Fulbright"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/12/fulbright.jpg" alt="" />
@@ -893,7 +894,7 @@
         <id>https://blog.garrettdowd.com/fulbright-faq/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/17/dc_crop.jpg" alt="" />
@@ -1009,7 +1010,7 @@
         <id>https://blog.garrettdowd.com/why-food-sucks/</id>
             <category term="Food"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/9/Annotation-2020-08-27-182252.png" alt="" />
@@ -1095,7 +1096,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -1145,7 +1146,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -1223,7 +1224,7 @@
         <id>https://blog.garrettdowd.com/imods-apple-ios-challenger/</id>
             <category term="Product Management"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
@@ -1304,7 +1305,7 @@
             <category term="Projects"/>
             <category term="Computing"/>
 
-        <updated>2020-09-02T14:45:33-04:00</updated>
+        <updated>2020-09-04T15:04:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/1/servers.jpg" alt="" />
