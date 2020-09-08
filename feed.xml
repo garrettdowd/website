@@ -18,7 +18,7 @@
         <id>https://blog.garrettdowd.com/autonomous-vehicles-will-fail-without-this-technology/</id>
             <category term="Transportation"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/30/960x0.jpg" alt="" />
@@ -74,7 +74,7 @@
 <p>Thanks for making it to this point in the article. There is a lot of opportunity waiting to be unlocked by self driving cars and vehicle communication technologies. However, it is difficult to make concrete assessments of this opportunity without the proper tools.</p>
 <p>Traffic simulation is a powerful tool that gives traffic engineers and urban planners a way to assess the potential impact of traffic pattern and infrastructure changes. However, there is no great way to simulate generalized connected vehicle use cases.</p>
 <p>This is why I created a <a href="https://github.com/garrettdowd/py_ptv" target="_blank" rel="noopener noreferrer">Python library for PTV Vissim</a>, a leading traffic simulator, that makes it easier for researchers and engineers to simulate connected and automated vehicle use cases.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="file://C:/Users/me/Documents/Publii/sites/garrett-dowd/input/media/posts/10/pyptv.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="file://C:/Users/me/Documents/Publii/sites/garrett-dowd/input/media/posts/10/responsive/pyptv-xs.png 384w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd/input/media/posts/10/responsive/pyptv-sm.png 600w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd/input/media/posts/10/responsive/pyptv-md.png 768w ,file://C:/Users/me/Documents/Publii/sites/garrett-dowd/input/media/posts/10/responsive/pyptv-lg.png 1200w"  alt="" width="444" height="232"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.garrettdowd.com/media/posts/30/pyptv.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://blog.garrettdowd.com/media/posts/30/responsive/pyptv-xs.png 384w ,https://blog.garrettdowd.com/media/posts/30/responsive/pyptv-sm.png 600w ,https://blog.garrettdowd.com/media/posts/30/responsive/pyptv-md.png 768w ,https://blog.garrettdowd.com/media/posts/30/responsive/pyptv-lg.png 1200w"  alt="" width="494" height="258"></figure>
 <p>Learn more about simulating connected and autonomous vehicles in my next article. (coming mid-September)</p>
 <p><a href="#non-existing-post-with-id-10" class="btn">Simulating Autonomous Vehicles</a></p>
 <p> </p>
@@ -91,7 +91,7 @@
             <category term="Projects"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
@@ -377,7 +377,7 @@
             <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
@@ -465,7 +465,7 @@
         <id>https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/</id>
             <category term="Food"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/19/vertical-farming.webp" alt="" />
@@ -569,7 +569,7 @@
         <id>https://blog.garrettdowd.com/ultimate-fulbright-guide/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/12/fulbright.jpg" alt="" />
@@ -964,7 +964,7 @@
         <id>https://blog.garrettdowd.com/fulbright-faq/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/17/dc_crop.jpg" alt="" />
@@ -1080,7 +1080,7 @@
         <id>https://blog.garrettdowd.com/why-food-sucks/</id>
             <category term="Food"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/9/Annotation-2020-08-27-182252.png" alt="" />
@@ -1166,7 +1166,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -1216,7 +1216,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -1294,7 +1294,7 @@
         <id>https://blog.garrettdowd.com/imods-apple-ios-challenger/</id>
             <category term="Product Management"/>
 
-        <updated>2020-09-08T12:38:38-04:00</updated>
+        <updated>2020-09-08T12:46:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
