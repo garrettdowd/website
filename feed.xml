@@ -18,7 +18,7 @@
         <id>https://blog.garrettdowd.com/autonomous-vehicles-will-fail-without-this-technology/</id>
             <category term="Transportation"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/30/960x0.jpg" alt="" />
@@ -34,17 +34,15 @@
 <p>If you are from the transport industry or work on autonomous vehicles you may be rolling your eyes at the moment. Communication in transportation has been on the development board for a LONG time. The U.S. government reserved spectrum in the 5.9GHz frequency range for vehicular use back in 1999 (<a href="https://docs.fcc.gov/public/attachments/FCC-99-305A1.pdf" target="_blank" rel="noopener noreferrer">FCC 99-305</a>)!!! Even with developed standards like IEEE 802.11p and SAE J2735 and a proposed mandate of DSRC radios from USDOT in 2016, communication has failed to make a significant impact in transportation for reasons beyond the scope of this article.</p>
 <p>However, in the last ten years machine learning and improved computing power has led to huge leaps in autonomous vehicle development. According to some estimates, <a href="https://www.brookings.edu/research/gauging-investment-in-self-driving-cars/" target="_blank" rel="noopener noreferrer">more than eighty billion dollars</a> has been dedicated to the pursuit of self-driving cars. With so much to loose and even more to gain, the autonomous vehicle industry is highly competitive and that is reflected in every company's technology strategy. </p>
 <p>Self-driving cars are poised to greatly benefit from vehicular communication, but most companies intend to commercialize (or are currently commercializing) them without communication capabilities, vehicular or human.</p>
-<p> </p>
 <h2>Why communication is important.</h2>
 <p>Bio-mimicry has been one of the most interesting areas of scientific study and engineering design in the past decade. In machine learning, neural networks are based on the understanding of how human brains work and have led to immense gains in the practicality and use of machine learning techniques. Without neural networks, self-driving cars as we know them today would not exist.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://media.npr.org/assets/img/2015/01/16/istock_000041703624large_wide-61304d12b42f1c346b2344039f6c2f294692699e.jpg?s=1400" data-is-external-image="true"  alt="" width="534" height="300"></figure>
 <p>Bio-mimicry has also made its way into other engineering domains such as control systems and traffic management. Researchers have studied everything from bee foraging methods to ant colony traffic to design autonomous intersection management and cooperative cruise control (platoon) algorithms. These algorithms fundamentally rely on inter-vehicle communication. This is less sci-fi fantasy and more of an everyday occurrence than you might think.</p>
 <p>Four-way stops? Pedestrian crossings? The reality is that we use more than just our brake lights and indicators to signal our intent. Autonomous vehicle companies have recognized this for a long time and modified vehicle controls to more closely mimic human driving behaviors. However, this method of communication or "language" is neither standardized nor inherently safe.</p>
 <p>Ask the U.S. Federal Aviation Agency or any other international aviation agency about the importance of clear and precise communication. Even in the wide open space above our heads, communication (ADS-B and voice) is necessary to ensure safety.</p>
-<p class="msg msg--highlight ">In other words, aviation industry investments in communication have led to measurable safety improvements.</p>
+<p class="msg msg--highlight "><strong>In other words, aviation industry investments in communication have led to measurable safety improvements.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/05/16x9/ATC_market_11_May_2020.5eb5484d57cb1.png?auto=format&amp;fit=max&amp;w=1200" data-is-external-image="true"  alt="" width="551" height="310"></figure>
 <p>There is a plethora of evidence from both nature and other transportation industries that communication is a key component to safety and optimization. However, communication has yet to find its place in ground transportation.</p>
-<p> </p>
 <h2>Challenges</h2>
 <p>As mentioned in the introduction, there has been little progress in ground transportation communication given the 20+ year history of the industry. The current state of the U.S. industry is raveled in indecision. If we want to unlock the full potential of communication for ground transportation we need to tackle some big challenges.</p>
 <p>When ITS and DSRC concepts were developed in the 1990's and 2000's, autonomous vehicles were a gutter dream. Cars were human driven AND owned. While DSRC could have improved overall public safety, there was little market incentive for vehicle manufacturers to justify R&amp;D costs. The government stepped in (as it should have) to fund research, technology, and standards. Even with government support, market incentive did not develop.</p>
@@ -57,13 +55,13 @@
 </li>
 <li>AVs are expected to be company owned/operated
 <ol>
-<li>Safety will no longer be sold on a sticker (see NCAP), so AV developers and transportation providers will be required to maintain incredibly high safety standards. There is clear economic motivation to invest in technology that measurably improves safety (rather than measures of safety that sell cars).</li>
+<li>Safety will no longer be sold on a sticker (<a href="https://en.wikipedia.org/wiki/New_Car_Assessment_Program" target="_blank" rel="noopener noreferrer">see NCAP</a>), so AV developers and transportation providers will be required to maintain incredibly high safety standards. There is clear economic motivation to invest in technology that measurably improves safety (rather than measures of safety that sell cars).</li>
 </ol>
 </li>
 </ol>
 <p>So why are AV companies not devoting resources to communication efforts? </p>
 <h3>Egg or Chicken</h3>
-<p>Language is only useful if other people understand it. So how do you start a language? Similarly, a two-sided market like Uber is only useful if there are both drivers and riders. Network effects are a core principle in the modern world of digital business. While there may be a company building an "Airbnb for pets", no one has fully broken into the V2X egg.</p>
+<p>Language is only useful if other people understand it. So how do you start a language? Similarly, a two-sided market like Uber is only useful if there are both drivers and riders. Two-sided markets rely on network effects, which are now a core principle in many digital businesses. While there may be a company using network effects to build an "Airbnb for pets", no one has fully solved the two-sided market style challenges for V2X.</p>
 <p>However, a crack is developing. Telematics is already an important/standard part of autonomous vehicles system for monitoring and dispatch. Cellular V2X standards are in the process of being developed that would make V2X integration a negligible cost. The question is, how do you bring the other side of the market to the table? Human driven cars are not disappearing anytime too soon. Cities are becoming more pedestrian centric. Road work will continue to be an entire season in Michigan. </p>
 <h3>Security</h3>
 <p>As with any cyber-physical system, malicious hacking could cause serious physical destruction. The good news is that communication security is a long studied field with great tools and processes; thank you world wide internet! The bad news is that there are still security challenges for decentralized, wireless, real-time communication networks.</p>
@@ -92,7 +90,7 @@
             <category term="Projects"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/21/IMG_5656.jpg" alt="" />
@@ -378,7 +376,7 @@
             <category term="Projects"/>
             <category term="Food"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/20/aquaponics.jpg" alt="" />
@@ -466,7 +464,7 @@
         <id>https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/</id>
             <category term="Food"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/19/vertical-farming.webp" alt="" />
@@ -570,7 +568,7 @@
         <id>https://blog.garrettdowd.com/ultimate-fulbright-guide/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/12/fulbright.jpg" alt="" />
@@ -965,7 +963,7 @@
         <id>https://blog.garrettdowd.com/fulbright-faq/</id>
             <category term="Fulbright"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/17/dc_crop.jpg" alt="" />
@@ -1081,7 +1079,7 @@
         <id>https://blog.garrettdowd.com/why-food-sucks/</id>
             <category term="Food"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/9/Annotation-2020-08-27-182252.png" alt="" />
@@ -1167,7 +1165,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/6/HyperloopTT-capsule.jpg" alt="" />
@@ -1217,7 +1215,7 @@
             <category term="Transportation"/>
             <category term="Product Management"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/5/glyde.png" alt="" />
@@ -1295,7 +1293,7 @@
         <id>https://blog.garrettdowd.com/imods-apple-ios-challenger/</id>
             <category term="Product Management"/>
 
-        <updated>2020-09-06T23:00:08-04:00</updated>
+        <updated>2020-09-08T11:57:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.garrettdowd.com/media/posts/4/iMods-Logo-Blue.png" alt="" />
