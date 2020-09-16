@@ -23,8 +23,8 @@
             "tags": [
                    "Transportation"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/ufarm-or-engineering/",
@@ -38,10 +38,11 @@
             },
             "tags": [
                    "Projects",
+                   "Food",
                    "Engineering"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/simulating-autonomous-vehicles/",
@@ -57,8 +58,8 @@
                    "Transportation",
                    "Engineering"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/autonomous-vehicles-will-fail-without-this-technology/",
@@ -73,8 +74,8 @@
             "tags": [
                    "Transportation"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/flyohio-enabling-cooperative-autonomy/",
@@ -90,8 +91,8 @@
                    "Transportation",
                    "Engineering"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/designing-ufarm/",
@@ -105,10 +106,11 @@
             },
             "tags": [
                    "Projects",
-                   "Product Management"
+                   "Product Management",
+                   "Food"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/how-to-never-kill-another-plant/",
@@ -124,8 +126,8 @@
                    "Projects",
                    "Food"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/the-future-of-food-is-hyper-local/",
@@ -140,8 +142,8 @@
             "tags": [
                    "Food"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/ultimate-fulbright-guide/",
@@ -156,8 +158,8 @@
             "tags": [
                    "Fulbright"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         },
         {
             "id": "https://blog.garrettdowd.com/fulbright-faq/",
@@ -172,8 +174,8 @@
             "tags": [
                    "Fulbright"
             ],
-            "date_published": "2020-09-15T11:20:45-04:00",
-            "date_modified": "2020-09-15T11:20:45-04:00"
+            "date_published": "2020-09-16T08:36:10-04:00",
+            "date_modified": "2020-09-16T08:36:10-04:00"
         }
     ]
 }
